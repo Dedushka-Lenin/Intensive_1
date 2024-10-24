@@ -27,19 +27,25 @@
 #             break
 
 #         case _:
-#             print('\nОшибка')
-
-import glob
-import pandas as pd
-
-path = 'parser\gathering_base'
-filenames = glob.glob(path + "/*.csv")
-
-dfs = []
-
-for filename in filenames:
-    dfs.append(pd.read_csv(filename))
+#             print('\nОшибка')Ы
 
 
-big_frame = pd.concat(dfs, ignore_index=True)
-big_frame.to_csv("parser/base/base.csv", index=False)
+
+# import glob
+# import pandas as pd
+
+# path = 'parser\gathering_base'
+# filenames = glob.glob(path + "/*.csv")
+
+# dfs = []
+
+# for filename in filenames:
+#     dfs.append(pd.read_csv(filename))
+
+
+# big_frame = pd.concat(dfs, ignore_index=True)
+# big_frame.to_csv("parser/base/base.csv", index=False)
+
+import os
+
+os.system('C:\Users\Игорь.А\OneDrive\Документы\GitHub\Intensive_1\parser\gathering_base copy *.csv base.csv')

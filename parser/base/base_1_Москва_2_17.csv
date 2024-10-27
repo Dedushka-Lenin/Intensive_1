@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Whitewill Москва-Сити,real_estate_agent,https://www.cian.ru/sale/flat/306072341/,Москва,sale,flat,68,73,2,223.0,-1,0,245300000,Пресненский,набережная Пресненская,8с1,Деловой центр,Город Столиц
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/306547341/,Москва,sale,flat,12,17,2,53.5,-1,0,10600000,, Дмитрия Рябинкина,4к1,Ватутинки,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/308851843/,Москва,sale,flat,2,14,2,52.2,-1,0,11950000,Ново-Переделкино,Новоорловская ,8,Новопеределкино,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/303264642/,Москва,sale,flat,2,14,2,39.9,-1,0,13500000,Очаково-Матвеевское,Озерная ,29К1,Озёрная,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307278492/,Москва,sale,flat,2,17,2,58.0,-1,0,13900000,Ново-Переделкино,Боровское шоссе,36,Новопеределкино,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/306666368/,Москва,sale,flat,2,14,2,56.0,-1,0,14350000,Можайский,Сколковское шоссе,32к3,Сетунь,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307861661/,Москва,sale,flat,9,16,2,53.7,-1,0,14600000,Можайский,Можайское шоссе,37,Рабочий посёлок,
+Homeapp,real_estate_agent,https://www.cian.ru/sale/flat/307265461/,Москва,sale,flat,17,17,2,51.2,-1,0,14550000,Северное Медведково,Широкая ,6К4,Медведково,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/305152360/,Москва,sale,flat,17,17,2,58.9,-1,0,15500000,Солнцево, 50 лет Октября,9,Говорово,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307848088/,Москва,sale,flat,1,17,2,50.4,-1,0,16300000,Можайский, Кутузова,2,Рабочий посёлок,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307751814/,Москва,sale,flat,1,9,2,50.4,-1,0,16990000,Раменки, Довженко,6,Минская,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/305972609/,Москва,sale,flat,8,16,2,50.2,-1,0,18300000,Филевский парк,Барклая ,3,Багратионовская,
+Эксклюзив Хоум,real_estate_agent,https://www.cian.ru/sale/flat/302580997/,Москва,sale,flat,5,16,2,51.8,-1,0,18500000,Даниловский,Большая Тульская ,2,Тульская,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307716863/,Москва,sale,flat,3,12,2,61.1,-1,0,19000000,Кунцево, Боженко,8К4,Рабочий посёлок,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/304320083/,Москва,sale,flat,16,17,2,60.0,-1,0,19500000,Кунцево,Рублевское шоссе,26К1,Молодёжная,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/308111231/,Москва,sale,flat,22,29,2,60.6,-1,0,19900000,Фили-Давыдково, Ивана Франко,6,Кунцевская,MainStreet
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/305976368/,Москва,sale,flat,14,25,2,62.0,-1,0,20400000,Лефортово,проезд Шелихова,9к1,Серп и Молот,"проезд Шелихова, 9к1"
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/306970085/,Москва,sale,flat,17,20,2,54.0,-1,0,20400000,Можайский, Красных Зорь,59Б,Рабочий посёлок,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/306012182/,Москва,sale,flat,13,17,2,51.1,-1,0,20500000,Черемушки, Наметкина,9К3,Новые Черёмушки,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/306134635/,Москва,sale,flat,2,5,2,66.8,-1,0,20500000,Кунцево,Ярцевская ,6,Молодёжная,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/306487599/,Москва,sale,flat,13,28,2,45.23,-1,0,20849000,Раменки,,,Мичуринский проспект,Инноватор ЖК
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307397927/,Москва,sale,flat,2,8,2,49.0,-1,0,21500000,Ломоносовский,Ленинский проспект,95,Новаторская,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/308766199/,Москва,sale,flat,14,30,2,56.0,-1,0,22500000,Южнопортовый,Волгоградский проспект,32/5к2,Угрешская,Метрополия
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/292676773/,Москва,sale,flat,3,13,2,32.8,-1,0,24750000,Даниловский,Подольское шоссе,3,Тульская,Logos
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307933524/,Москва,sale,flat,4,8,2,58.6,-1,0,25000000,Гагаринский,Университетский проспект,1/62,Вавиловская,
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/306600530/,Москва,sale,flat,8,37,2,48.2,-1,0,29000000,Беговой, 1-я Ямского Поля,1к1,Белорусская,Slava
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/292676770/,Москва,sale,flat,3,13,2,41.1,-1,0,30750000,Даниловский,Подольское шоссе,3,Тульская,Logos
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/306805961/,Москва,sale,flat,6,11,2,55.1,-1,0,32700000,Басманный, Казакова,7,Курская,KAZAKOV Grand Loft

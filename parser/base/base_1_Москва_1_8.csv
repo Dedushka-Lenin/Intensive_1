@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+СМАРЕНТ,real_estate_agent,https://www.cian.ru/sale/flat/307414383/,Москва,sale,flat,15,18,1,38.5,-1,0,16500000,Щукино,Большой Волоколамский проезд,23,Стрешнево,Комплекс апартаментов B’aires
+ID 96167522,realtor,https://www.cian.ru/sale/flat/296747241/,Москва,sale,flat,4,9,1,36.0,-1,0,8700000,Люблино, Верхние Поля,27С2,Братиславская,
+РГ-Девелопмент,developer,https://www.cian.ru/sale/flat/307195936/,Москва,sale,flat,5,26,1,37.6,-1,0,14543191,Соколиная гора,,,Соколиная гора,Семеновский Парк 2 ЖК
+Century 21 Premium Property,real_estate_agent,https://www.cian.ru/sale/flat/308801170/,Москва,sale,flat,13,25,1,38.8,-1,0,14800000,Щукино, Берзарина,30Б,Бульвар Генерала Карбышева,Октябрьское поле
+Dream Realty,real_estate_agent,https://www.cian.ru/sale/flat/307043068/,Москва,sale,flat,9,28,1,34.7,-1,0,14500000,Богородское,Открытое шоссе,14Д,Бульвар Рокоссовского,Талисман на Рокоссовского
+ФСК,developer,https://www.cian.ru/sale/flat/308422170/,Москва,sale,flat,4,52,1,32.3,-1,0,19115140,Хорошевский,3-й Хорошевский проезд,3А,,AMBER CITY
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/305953345/,Москва,sale,flat,14,27,1,36.7,-1,0,16980000,Хорошево-Мневники,Шелепихинская набережная,42к2,Шелепиха,FreeDOM
+Forma,developer,https://www.cian.ru/sale/flat/306957821/,Москва,sale,flat,17,27,1,49.6,-1,0,21923200,Аэропорт,Часовая ,28к8,Сокол,SOUL
+MR Group,developer,https://www.cian.ru/sale/flat/308167171/,Москва,sale,flat,6,15,1,36.4,-1,0,14672330,Покровское-Стрешнево,,,Тушинская,Ситизен ЖК
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307397601/,Москва,sale,flat,2,10,1,30.8,-1,0,10850000,Раменки,3-й Сетуньский проезд,3,Кутузовская,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307949235/,Москва,sale,flat,7,13,1,32.1,-1,0,8300000,, Яворки,1к2,Кедровая,Кленовые Аллеи
+Донстрой,developer,https://www.cian.ru/sale/flat/308079872/,Москва,sale,flat,3,19,1,53.0,-1,0,63441000,Замоскворечье,Большая Татарская ,35С7-9,Новокузнецкая,Татарская 35
+Estes,real_estate_agent,https://www.cian.ru/sale/flat/307585490/,Москва,sale,flat,17,22,1,43.5,-1,0,19200000,Щукино,Большой Волоколамский проезд,23,Стрешнево,Комплекс апартаментов B’aires
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/304588840/,Москва,sale,flat,6,17,1,35.6,-1,0,13000000,Кунцево,Ельнинская ,20к2,Молодёжная,
+ФСК,developer,https://www.cian.ru/sale/flat/293677259/,Москва,sale,flat,45,47,1,34.3,-1,0,20360480,Обручевский,,,Калужская,Архитектор ЖК
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/308012916/,Москва,sale,flat,12,12,1,58.7,-1,0,38155000,Даниловский,2-я Рощинская ,1,Тульская,Данилов дом
+Dream Realty,real_estate_agent,https://www.cian.ru/sale/flat/303256815/,Москва,sale,flat,14,16,1,34.6,-1,0,14400000,Хорошевский, Поликарпова,19К2,Беговая,
+Capital Group,representative_developer,https://www.cian.ru/sale/flat/304746725/,Москва,sale,flat,15,51,1,44.98,-1,0,,Пресненский,Шелепихинское шоссе,,Шелепиха,Headliner
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/308012921/,Москва,sale,flat,11,12,1,63.0,-1,0,39060000,Даниловский,2-я Рощинская ,1,Тульская,Данилов дом
+BERI,real_estate_agent,https://www.cian.ru/sale/flat/305730509/,Москва,sale,flat,5,9,1,36.8,-1,0,17810000,Хорошевский, Куусинена,6К13,Полежаевская,
+Брусника,developer,https://www.cian.ru/sale/flat/304369747/,Москва,sale,flat,5,21,1,36.6,-1,0,27290000,Даниловский,Дубининская ,вл59к2,,Дом А
+Арт Риэлти,real_estate_agent,https://www.cian.ru/sale/flat/308768570/,Москва,sale,flat,14,48,1,42.0,-1,0,24500000,Хорошево-Мневники, Народного Ополчения,15К1,Народное Ополчение,Wellton Towers
+Isaev Estate,real_estate_agent,https://www.cian.ru/sale/flat/308279827/,Москва,sale,flat,2,23,1,55.0,-1,0,15500000,Перово,шоссе Энтузиастов,86Ак1,Новогиреево,PerovSky
+MR Group,developer,https://www.cian.ru/sale/flat/306477182/,Москва,sale,flat,9,30,1,37.5,-1,0,17725242,Южнопортовый,Волгоградский проспект,32/5к2,Волгоградский проспект,Метрополия
+ONE Company,real_estate_agent,https://www.cian.ru/sale/flat/308100205/,Москва,sale,flat,22,22,1,14.3,-1,0,8280000,Тропарево-Никулино,Ленинский проспект,158,Юго-Западная,
+На Петровке,real_estate_agent,https://www.cian.ru/sale/flat/297622152/,Москва,sale,flat,8,9,1,34.0,-1,0,9499000,Печатники, Гурьянова,39,Люблино,
+Level Group,developer,https://www.cian.ru/sale/flat/308683214/,Москва,sale,flat,2,21,1,37.7,-1,0,20208954,Басманный,Большая Почтовая ,,Электрозаводская,Level Бауманская
+ХОРЕКА ИНВЕСТ,real_estate_agent,https://www.cian.ru/sale/flat/305694039/,Москва,sale,flat,22,22,1,19.4,-1,0,8880000,Тропарево-Никулино,Ленинский проспект,158,Юго-Западная,

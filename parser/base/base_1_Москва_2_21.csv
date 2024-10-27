@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/306880630/,Москва,sale,flat,6,7,2,42.6,-1,0,13400000,, Медовая Долина,3к2,Санино,Баркли Медовая долина
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307591943/,Москва,sale,flat,6,33,2,50.0,-1,0,13600000,Ховрино,Клинская ,2Ак7,Грачёвская,мой адрес На Клинской
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/306931910/,Москва,sale,flat,3,12,2,49.6,-1,0,13550000,Головинский,Кронштадтский бульвар,13/2к1,Водный стадион,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307444077/,Москва,sale,flat,3,5,2,43.1,-1,0,13799000,Беговой, Новая Башиловка,10,Динамо,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/306399551/,Москва,sale,flat,20,24,2,70.5,-1,0,13700000,Косино-Ухтомский,Лухмановская ,30,Лухмановская,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/306258883/,Москва,sale,flat,7,9,2,44.5,-1,0,13700000,Бирюлево Восточное,Михневская ,19К2,Бирюлёво,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/303335733/,Москва,sale,flat,9,17,2,55.7,-1,0,13748000,, Бианки,8к2,Рассказовка,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/308418135/,Москва,sale,flat,2,9,2,45.2,-1,0,13700000,Чертаново Южное,Чертановская ,64К1,Улица Академика Янгеля,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/306172232/,Москва,sale,flat,8,9,2,47.9,-1,0,13800000,Южнопортовый,5-я Кожуховская ,22К2,Кожуховская,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/306025161/,Москва,sale,flat,7,9,2,44.5,-1,0,13800000,Черемушки,Профсоюзная ,44К3,Профсоюзная,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/306746293/,Москва,sale,flat,6,17,2,33.0,-1,0,13850000,, Лобановский Лес,13,Прокшино,Прокшино
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/304698769/,Москва,sale,flat,9,15,2,53.7,-1,0,13800000,,бульвар Скандинавский,1к2,Ольховая,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/304538564/,Москва,sale,flat,2,16,2,33.9,-1,0,13800000,Даниловский, Симоновский Вал,12,Пролетарская,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/308014552/,Москва,sale,flat,10,14,2,39.0,-1,0,14000000,Ростокино,проспект Мира,196,Ростокино,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/303932087/,Москва,sale,flat,4,13,2,48.5,-1,0,14000000,,бульвар Веласкеса,2,Ольховая,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/304816761/,Москва,sale,flat,1,16,2,52.0,-1,0,13999000,Соколиная гора, Буракова,19,Сортировочная,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307899557/,Москва,sale,flat,13,23,2,34.0,-1,0,13950000,Покровское-Стрешнево,Волоколамское шоссе,71/22к3,Спартак,Апарт-комплекс Движение.Тушино
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307718426/,Москва,sale,flat,1,5,2,45.0,-1,0,14000000,Северное Тушино,Планерная ,1К3,Планерная,
+Ксения Шахматова,realtor,https://www.cian.ru/sale/flat/307776076/,Москва,sale,flat,8,9,2,40.0,-1,0,13990000,Царицыно, Бехтерева,11К1,Кантемировская,
+Ксения Шахматова,realtor,https://www.cian.ru/sale/flat/307325426/,Москва,sale,flat,5,9,2,42.0,-1,0,14200000,Южное Тушино,Туристская ,6К3,Сходненская,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307707718/,Москва,sale,flat,1,9,2,46.1,-1,0,14100000,Восточное Дегунино, 800-летия Москвы,11К8,Бескудниково,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/306079213/,Москва,sale,flat,3,3,2,49.4,-1,0,14100000,Свиблово,Ивовая ,5,Свиблово,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/305691541/,Москва,sale,flat,2,9,2,44.0,-1,0,14200000,Бибирево, Коненкова,21А,Алтуфьево,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/303625618/,Москва,sale,flat,17,17,2,58.6,-1,0,14300000,, Летчика Грицевца,12,Пыхтино,Солнцево парк
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307335551/,Москва,sale,flat,6,9,2,46.0,-1,0,14500000,Бибирево,Мурановская ,7,Алтуфьево,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/306185877/,Москва,sale,flat,13,16,2,54.5,-1,0,14490000,Ясенево,Голубинская ,24К1,Новоясеневская,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/306101482/,Москва,sale,flat,3,14,2,49.4,-1,0,14500000,, 1-я Ватутинская,12к2,Ватутинки,Russian Design District
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/304075212/,Москва,sale,flat,9,9,2,46.0,-1,0,14500000,Черемушки,Перекопская ,30к1,Зюзино,

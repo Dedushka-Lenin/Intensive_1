@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Аквилон,developer,https://www.cian.ru/sale/flat/306727877/,Москва,sale,flat,12,23,1,23.5,-1,0,7926292,Отрадное,Сигнальный проезд,12,Владыкино,Akvilon Signal
+А101,developer,https://www.cian.ru/sale/flat/306744977/,Москва,sale,flat,8,10,1,35.0,-1,0,7965753,,,3.1,Толстопальцево,Родные кварталы ЖК
+А101,developer,https://www.cian.ru/sale/flat/306745204/,Москва,sale,flat,3,9,1,33.9,-1,0,7903030,,,1.2,Толстопальцево,Родные кварталы ЖК
+,,https://www.cian.ru/sale/flat/308761989/,Москва,sale,flat,3,16,1,27.38,-1,0,7977199,поселок Газопровод, Лесные Поляны 5-я,2,Корниловская,Смарт Гарден ЖК
+,,https://www.cian.ru/sale/flat/308762122/,Москва,sale,flat,3,16,1,30.61,-1,0,7939836,поселок Газопровод, Лесные Поляны 5-я,,Корниловская,Смарт Гарден ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/308657215/,Москва,sale,flat,1,9,1,34.51,-1,0,7939295,,,к1,Силикатная,Подольские Кварталы ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/308966885/,Москва,sale,flat,5,15,1,35.17,-1,0,7946538,,,к11,Щербинка,Алхимово ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/308966493/,Москва,sale,flat,1,5,1,40.79,-1,0,7934063,,,к30,Рассказовка,Новое Внуково ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/308912429/,Москва,sale,flat,8,17,1,38.62,-1,0,7905475,,,к4,Филатов Луг,Квартал Марьино ЖК
+ПИК,developer,https://www.cian.ru/sale/flat/303687892/,Москва,sale,flat,9,9,1,32.26,-1,0,7922249,,,к4.1,Филатов Луг,Середневский Лес ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/308920017/,Москва,sale,flat,6,14,1,45.59,-1,0,8012602,,,к20,Щербинка,Остафьево ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/308914327/,Москва,sale,flat,1,13,1,40.33,-1,0,8012805,Молжаниновский,,к6,Новоподрезково,Молжаниново ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309107302/,Москва,sale,flat,8,10,1,33.79,-1,0,8017273,,,к11,Филатов Луг,Цветочные Поляны ЖК
+ПИК,developer,https://www.cian.ru/sale/flat/306483952/,Москва,sale,flat,2,11,1,33.8,-1,0,8015669,Крюково,Зеленоград,22-й мкр,Зеленоград — Крюково,Зелёный парк
+Самолет,developer,https://www.cian.ru/sale/flat/308914414/,Москва,sale,flat,1,13,1,40.3,-1,0,8048434,Молжаниновский,,к5,Новоподрезково,Молжаниново ЖК
+ПИК,developer,https://www.cian.ru/sale/flat/306987536/,Москва,sale,flat,2,17,1,32.6,-1,0,8019110,, Мостотреста,,Щербинка,Юнино
+,,https://www.cian.ru/sale/flat/308761984/,Москва,sale,flat,2,16,1,31.04,-1,0,8042947,поселок Газопровод, Лесные Поляны 5-я,2,Корниловская,Смарт Гарден ЖК
+ПИК,developer,https://www.cian.ru/sale/flat/306483869/,Москва,sale,flat,2,28,1,37.1,-1,0,8035748,Крюково,Зеленоград,6.5,Зеленоград — Крюково,Зелёный парк
+Самолет,developer,https://www.cian.ru/sale/flat/308914792/,Москва,sale,flat,2,22,1,40.28,-1,0,8015781,,,14.2,Летово,Эко Бунино ЖК
+SPENСER ESTATE,real_estate_agent,https://www.cian.ru/sale/flat/308442652/,Москва,sale,flat,2,12,1,37.0,-1,0,8100000,, Харлампиева,50к3,Филатов Луг,
+Самолет Плюс,real_estate_agent,https://www.cian.ru/sale/flat/308759219/,Москва,sale,flat,1,9,1,32.5,-1,0,8100000,Ярославский,Лосевская ,1К1,Медведково,
+Самолет,developer,https://www.cian.ru/sale/flat/308914716/,Москва,sale,flat,1,15,1,41.8,-1,0,8085656,,,15,Летово,Эко Бунино ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/308914907/,Москва,sale,flat,23,23,1,41.41,-1,0,8067838,,,13,Летово,Эко Бунино ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/308653617/,Москва,sale,flat,13,13,1,40.78,-1,0,8068293,Молжаниновский,,к6,Новоподрезково,Молжаниново ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/308914325/,Москва,sale,flat,8,15,1,34.61,-1,0,8125424,Молжаниновский,,к6,Новоподрезково,Молжаниново ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/308650568/,Москва,sale,flat,1,14,1,42.83,-1,0,8131789,,,10,Рассказовка,Квартал Западный ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/308920015/,Москва,sale,flat,11,14,1,45.06,-1,0,8111442,,,к20,Щербинка,Остафьево ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/308966444/,Москва,sale,flat,8,9,1,40.9,-1,0,8124172,,,к31,Рассказовка,Новое Внуково ЖК

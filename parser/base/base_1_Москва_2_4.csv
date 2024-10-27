@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Основа,developer,https://www.cian.ru/sale/flat/287741366/,Москва,sale,flat,10,13,2,50.0,-1,0,29946000,Замоскворечье,Большой Строченовский переулок,9,Павелецкая,Резиденции Замоскворечье
+ID 16079413,homeowner,https://www.cian.ru/sale/flat/306373999/,Москва,sale,flat,11,12,2,45.0,-1,0,10499999,Выхино-Жулебино, Хлобыстова,8К1,Вешняки,
+ID 73038306,real_estate_agent,https://www.cian.ru/sale/flat/308737761/,Москва,sale,flat,6,12,2,44.8,-1,0,19490000,Марьина роща,1-й Стрелецкий проезд,3,Марьина Роща,
+Донстрой,developer,https://www.cian.ru/sale/flat/308969323/,Москва,sale,flat,19,25,2,57.7,-1,0,24914860,Лефортово,Независимость кв-л,,Авиамоторная,Символ ЖК
+Romanov Estate,real_estate_agent,https://www.cian.ru/sale/flat/299515958/,Москва,sale,flat,6,6,2,65.8,-1,0,46999999,Даниловский,,,Павелецкая,Опус ЖК
+Intermark Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/293510493/,Москва,sale,flat,8,22,2,87.2,-1,0,38000000,Раменки, Пырьева,9К1,Поклонная,
+Sense Development,developer,https://www.cian.ru/sale/flat/306043638/,Москва,sale,flat,10,13,2,64.5,-1,0,38046348,Даниловский, Даниловский Вал,1А,Тульская,Logos
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307246884/,Москва,sale,flat,45,73,2,222.7,-1,0,160000000,Пресненский,набережная Пресненская,8с1,Деловой центр,Город Столиц
+ZAPAD REALTY - офис Маршала Жукова,real_estate_agent,https://www.cian.ru/sale/flat/308629847/,Москва,sale,flat,26,41,2,46.0,-1,0,21500000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+Capital Group,developer,https://www.cian.ru/sale/flat/307771799/,Москва,sale,flat,11,18,2,45.8,-1,0,56907301,Дорогомилово,,,Москва-Сити,Бадаевский ЖК
+Евгений Щербаков,realtor,https://www.cian.ru/sale/flat/300954373/,Москва,sale,flat,16,23,2,52.8,-1,0,14990000,Южнопортовый,м. Волгоградский проспект,,Волгоградский проспект,Хайвэй ЖК
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307314658/,Москва,sale,flat,2,19,2,60.7,-1,0,20000000,Таганский,Рабочая ,16,Москва-Товарная,
+MR Group,developer,https://www.cian.ru/sale/flat/308399369/,Москва,sale,flat,5,11,2,75.79,-1,0,56842500,Филевский парк,,,Фили,Фили Сити ЖК
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/307848098/,Москва,sale,flat,21,24,2,52.4,-1,0,34900000,Арбат, Новый Арбат,16,Арбатская,
+ID 108109847,homeowner,https://www.cian.ru/sale/flat/308933767/,Москва,sale,flat,7,8,2,51.9,-1,0,9950000,, Уточкина,8к2,Силикатная,
+MR Group,developer,https://www.cian.ru/sale/flat/308909118/,Москва,sale,flat,6,13,2,85.19,-1,0,126021567,Мещанский,Садовая-Сухаревская ,14,Цветной бульвар,Клубный дом Forum
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/305646078/,Москва,sale,flat,24,24,2,57.4,-1,0,37480000,Хорошево-Мневники,Шелепихинская набережная,34к3зд7,Шелепиха,Сердце Столицы
+ID 59207472,realtor,https://www.cian.ru/sale/flat/307229057/,Москва,sale,flat,3,9,2,40.1,-1,0,13500000,Преображенское,Халтуринская ,11,Преображенская площадь,
+PIONEER,developer,https://www.cian.ru/sale/flat/306809947/,Москва,sale,flat,2,22,2,45.8,-1,0,23267700,Марьина роща,Полковая ,1С12,Савёловская,PRIDE
+ZAPAD REALTY - офис Маршала Жукова,real_estate_agent,https://www.cian.ru/sale/flat/308064930/,Москва,sale,flat,5,24,2,75.0,-1,0,48000000,Хорошево-Мневники,Шелепихинская набережная,34к3,Шелепиха,Сердце Столицы
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/304188651/,Москва,sale,flat,8,8,2,49.2,-1,0,21500000,Басманный, Земляной Вал,,Чкаловская,
+Sminex,developer,https://www.cian.ru/sale/flat/308011961/,Москва,sale,flat,3,6,2,207.3,-1,0,582330000,Хамовники,3-й Обыденский переулок,1С1,Кропоткинская,Клубный дом Обыденский № 1
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/306226871/,Москва,sale,flat,3,14,2,106.9,-1,0,160350000,Хамовники,переулок 1-й Тружеников,16,Киевская,Brodsky
+ID 15705636,homeowner,https://www.cian.ru/sale/flat/307810393/,Москва,sale,flat,9,9,2,60.0,-1,0,18000000,Куркино,Ландышевая ,12,Химки,
+Sminex,developer,https://www.cian.ru/sale/flat/306154917/,Москва,sale,flat,2,23,2,77.6,-1,0,86100000,Пресненский,,,Улица 1905 года,Лайф Тайм ЖК
+ID 106049320,homeowner,https://www.cian.ru/sale/flat/300641504/,Москва,sale,flat,4,9,2,38.0,-1,0,15500000,Хорошево-Мневники,Живописная ,5К2,Народное Ополчение,
+ID 108847041,homeowner,https://www.cian.ru/sale/flat/307631693/,Москва,sale,flat,19,45,2,66.0,-1,0,16250000,Бескудниковский,Дмитровское шоссе,вл89,Селигерская,"Дмитровское шоссе, вл89"
+Dominanta,developer,https://www.cian.ru/sale/flat/304842271/,Москва,sale,flat,16,34,2,56.1,-1,0,36913800,Раменки,проезд 4-й Сетуньский,10Ас2,Парк Победы,hideOUT

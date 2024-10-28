@@ -1,12 +1,12 @@
 import pandas as pd    #  pip install pandas
+import glob
 from pathlib import Path
 
-def csv_merger(path, out_filename="res.csv", globmask="*.csv", chunksize=5000, **kwargs):
-    path = Path(path)
-    need_header = True
-    for f in path.glob(globmask):
-        for chunk in pd.read_csv(f, chunksize=chunksize, **kwargs):
-            chunk.to_csv(out_filename, index=False, header=need_header, mode="a")
-            need_header = False
+data_dir = Path("base")
 
-csv_merger("/parser/base", "parser/base/res.csv", globmask="*.csv", chunksize=1000)
+extension = 'csv'
+all_filenames = [i for i in glob.glob('*.{}'.format(extension))]
+
+combined_csv = pd.concat([pd.read_csv(f) for f in all_filenames])
+
+combined_csv.to_csv( "../res.csv", index=False, encoding='utf-8-sig')

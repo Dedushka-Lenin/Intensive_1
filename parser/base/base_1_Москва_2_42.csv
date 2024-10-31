@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Самолет,developer,https://www.cian.ru/sale/flat/309195362/,Москва,sale,flat,14,14,2,55.9,-1,0,10321139,,,к2,Филатов Луг,Цветочные Поляны
+Самолет,developer,https://www.cian.ru/sale/flat/309186711/,Москва,sale,flat,8,9,2,54.59,-1,0,10262865,,,к30,Рассказовка,Новое Внуково ЖК
+А101,developer,https://www.cian.ru/sale/flat/306741845/,Москва,sale,flat,12,15,2,44.7,-1,0,10314480,,,,Ольховая,Деснаречье ЖК
+А101,developer,https://www.cian.ru/sale/flat/306745268/,Москва,sale,flat,7,9,2,45.5,-1,0,10335280,,,1.2,Толстопальцево,Родные кварталы ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309195529/,Москва,sale,flat,14,16,2,55.9,-1,0,10327595,,,к1,Филатов Луг,Цветочные Поляны
+Самолет,developer,https://www.cian.ru/sale/flat/309197655/,Москва,sale,flat,4,9,2,59.64,-1,0,10318376,,,к4,Силикатная,Подольские Кварталы ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309187927/,Москва,sale,flat,11,17,2,58.29,-1,0,10339538,,,к4,Филатов Луг,Квартал Марьино ЖК
+А101,developer,https://www.cian.ru/sale/flat/306747428/,Москва,sale,flat,2,17,2,54.5,-1,0,10337288,,,9.1,Улица Горчакова,Бунинские Кварталы ЖК
+ПИК,developer,https://www.cian.ru/sale/flat/307049582/,Москва,sale,flat,4,11,2,47.9,-1,0,10348268,Южное Бутово,,,Щербинка,Никольские Луга ЖК
+ПИК,developer,https://www.cian.ru/sale/flat/305234537/,Москва,sale,flat,3,9,2,50.8,-1,0,10332465,,,4.3,Филатов Луг,Середневский Лес ЖК
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/306657692/,Москва,sale,flat,4,7,2,43.2,-1,0,10440000,, Медовая Долина,2,Санино,Баркли Медовая долина
+А101,developer,https://www.cian.ru/sale/flat/306743945/,Москва,sale,flat,6,6,2,41.2,-1,0,10360146,,,1.4,Новомосковская,Дзен-кварталы ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309195212/,Москва,sale,flat,13,13,2,51.79,-1,0,10407291,,,к11,Филатов Луг,Цветочные Поляны ЖК
+А101,developer,https://www.cian.ru/sale/flat/306738334/,Москва,sale,flat,2,9,2,40.4,-1,0,10389179,,,25.4,Бунинская аллея,Скандинавия ЖК
+А101,developer,https://www.cian.ru/sale/flat/306745281/,Москва,sale,flat,3,9,2,55.7,-1,0,10352848,,,1.2,Толстопальцево,Родные кварталы ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309186710/,Москва,sale,flat,9,9,2,57.4,-1,0,10414312,,,к30,Рассказовка,Новое Внуково ЖК
+А101,developer,https://www.cian.ru/sale/flat/306745868/,Москва,sale,flat,7,17,2,47.4,-1,0,10433261,,,7.1,Улица Горчакова,Бунинские Кварталы ЖК
+А101,developer,https://www.cian.ru/sale/flat/306747054/,Москва,sale,flat,14,17,2,36.0,-1,0,10402344,,,к3.4,Бунинская аллея,Бунинские Кварталы ЖК
+А101,developer,https://www.cian.ru/sale/flat/306744949/,Москва,sale,flat,9,10,2,53.5,-1,0,10371125,,,1.1,Толстопальцево,Родные кварталы ЖК
+ПИК,developer,https://www.cian.ru/sale/flat/308816933/,Москва,sale,flat,1,17,2,51.6,-1,0,10442188,Южное Бутово,,,Щербинка,Никольские Луга ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309194880/,Москва,sale,flat,10,10,2,49.96,-1,0,10379186,,,13,Летово,Эко Бунино ЖК
+ПИК,developer,https://www.cian.ru/sale/flat/308664374/,Москва,sale,flat,8,9,2,53.0,-1,0,10422449,,,4.3,Филатов Луг,Середневский Лес ЖК
+Ирина Свирепова,realtor,https://www.cian.ru/sale/flat/309252728/,Москва,sale,flat,7,9,2,45.0,-1,0,10500000,Ховрино,Клинская ,11,Грачёвская,
+Лайк Стрит,real_estate_agent,https://www.cian.ru/sale/flat/307607902/,Москва,sale,flat,3,9,2,47.6,-1,0,10450000,Царицыно, Бехтерева,41К3,Царицыно,
+СМАРЕНТ,real_estate_agent,https://www.cian.ru/sale/flat/309142396/,Москва,sale,flat,7,17,2,51.2,-1,0,10500000,Некрасовка,Рождественская ,14,Некрасовка,
+МОЯ СТОЛИЦА,real_estate_agent,https://www.cian.ru/sale/flat/303855849/,Москва,sale,flat,10,12,2,38.2,-1,0,10500000,Перово, Металлургов,38,Перово,
+Галерея PRO,real_estate_agent,https://www.cian.ru/sale/flat/306061550/,Москва,sale,flat,17,17,2,60.0,-1,0,10499900,Южное Бутово, Маршала Савицкого,20,Щербинка,
+Октава-Недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/305952688/,Москва,sale,flat,11,14,2,39.6,-1,0,10500000,Северное Медведково, Грекова,2,Медведково,

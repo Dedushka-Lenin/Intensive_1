@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Этажи Москва,real_estate_agent,https://odintsovo.cian.ru/sale/flat/309281435/,Москва и МО,sale,flat,20,20,2,67.0,-1,0,11300000,,Северная ,15,Одинцово,Одинбург
+Самолет Плюс Липецк,real_estate_agent,https://lipetsk.cian.ru/sale/flat/306320007/,Москва и МО,sale,flat,14,22,2,63.9,-1,0,11330000,Советский,Нижняя Логовая ,11,,
+Century21 Феникс,real_estate_agent,https://www.cian.ru/sale/flat/307964194/,Москва и МО,sale,flat,1,5,2,44.3,-1,0,11500000,Бутырский, Яблочкова,8,Тимирязевская,
+Этажи Москва,real_estate_agent,https://khimki.cian.ru/sale/flat/308163751/,Москва и МО,sale,flat,15,17,2,60.5,-1,0,11700000,, Бабакина,13,Планерная,
+Иван Усачев,realtor,https://lyubertsy.cian.ru/sale/flat/303856391/,Москва и МО,sale,flat,4,17,2,64.0,-1,0,11999000,, Юности,9,Некрасовка,Люберецкий
+Виктор Дмитриев,realtor,https://ekb.cian.ru/sale/flat/308736921/,Москва и МО,sale,flat,10,10,2,48.2,-1,0,11900000,, Щорса,24,Чкаловская,
+Этажи Ярославль,real_estate_agent,https://yaroslavl.cian.ru/sale/flat/293921025/,Москва и МО,sale,flat,2,8,2,88.9,-1,0,12500000,Кировский, Большая Октябрьская,108,,на Рождественской
+Елена Дягилева,realtor,https://www.cian.ru/sale/flat/307763037/,Москва и МО,sale,flat,9,9,2,45.0,-1,0,12500000,Коньково,Миклухо-Маклая ,25,Университет Дружбы Народов,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/299605341/,Москва и МО,sale,flat,8,10,2,53.3,-1,0,12700000,Люблино, Марьинский Парк,41К2,Люблино,
+Славянский,developer,https://krym.cian.ru/sale/flat/278680905/,Москва и МО,sale,flat,2,8,2,68.2,-1,0,12855700,Восход пгт, Авроры,77,,Комплекс апартаментов Аврора
+Этажи Москва,real_estate_agent,https://krasnogorsk.cian.ru/sale/flat/309026220/,Москва и МО,sale,flat,22,25,2,66.0,-1,0,13000000,, Игоря Мерлушкина,3,Аникеевка,Изумрудные холмы
+ВЛАСТА ИНВЕСТ КРЫМ,developer,https://krym.cian.ru/sale/flat/293880195/,Москва и МО,sale,flat,2,8,2,60.86,-1,0,13084900,Алупка, И. Левитана,3Д,,Любимый
+ВЛАСТА ИНВЕСТ КРЫМ,developer,https://krym.cian.ru/sale/flat/293880336/,Москва и МО,sale,flat,3,8,2,60.47,-1,0,13363870,Алупка, И. Левитана,3Д,,Любимый
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/308936625/,Москва и МО,sale,flat,7,9,2,46.0,-1,0,14200000,Выхино-Жулебино,Ташкентская ,10К2,Юго-Восточная,
+Офис Гид,real_estate_agent,https://www.cian.ru/sale/flat/309180318/,Москва и МО,sale,flat,17,22,2,57.3,-1,0,14300000,Ясенево,Литовский бульвар,1,Ясенево,
+Этажи Москва,real_estate_agent,https://odintsovo.cian.ru/sale/flat/309237148/,Москва и МО,sale,flat,3,4,2,69.6,-1,0,14390000,с. Ромашково, Железнодорожная,38,,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/308909303/,Москва и МО,sale,flat,12,16,2,52.6,-1,0,14300000,Отрадное,Юрловский проезд,1,Отрадное,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/309176716/,Москва и МО,sale,flat,15,17,2,54.0,-1,0,14350000,Ново-Переделкино,Лукинская ,8к1,Переделкино,"Ново-Переделкино, ул. Лукинская"
+Ольга Соколова,realtor,https://krasnogorsk.cian.ru/sale/flat/308365503/,Москва и МО,sale,flat,21,25,2,64.0,-1,0,14500000,,Ильинское шоссе,14,Павшино,Ильинский парк
+Дмитрий Подстоев,realtor,https://www.cian.ru/sale/flat/308742239/,Москва и МО,sale,flat,11,27,2,47.2,-1,0,14700000,Западное Дегунино, Летчика Осканова,6,Верхние Лихоборы,Тринити-2
+CENTURY 21 Перспектива,real_estate_agent,https://www.cian.ru/sale/flat/309079832/,Москва и МО,sale,flat,19,24,2,61.2,-1,0,15000000,Косино-Ухтомский,Лухмановская ,27,Лухмановская,
+ВЛАСТА ИНВЕСТ КРЫМ,developer,https://krym.cian.ru/sale/flat/293880560/,Москва и МО,sale,flat,4,8,2,61.6,-1,0,15030400,Алупка, И. Левитана,3Д,,Любимый
+Рекон-Крым-Строй,developer,https://krym.cian.ru/sale/flat/299779103/,Москва и МО,sale,flat,3,13,2,65.02,-1,0,15000000,,,,,Зенит
+Рекон-Крым-Строй,developer,https://krym.cian.ru/sale/flat/299779098/,Москва и МО,sale,flat,11,13,2,65.02,-1,0,15000000,Ялта, Красноармейская,,,Зенит
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307949139/,Москва и МО,sale,flat,18,25,2,57.0,-1,0,15400000,Выхино-Жулебино,Самаркандский бульвар,15/1,Юго-Восточная,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/309236367/,Москва и МО,sale,flat,4,9,2,38.5,-1,0,15500000,Черемушки,Новочеремушкинская ,53К2,Профсоюзная,
+ИнтерCтрой,developer,https://krym.cian.ru/sale/flat/296490735/,Москва и МО,sale,flat,7,8,2,58.25,-1,0,15520140,,,,,На Фонтанке
+Century 21 Level,real_estate_agent,https://www.cian.ru/sale/flat/308879943/,Москва и МО,sale,flat,14,17,2,64.0,-1,0,15750000,, Бориса Пастернака,49,Мичуринец,

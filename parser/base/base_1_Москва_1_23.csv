@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Апрелевка С2,developer,https://www.cian.ru/sale/flat/297846901/,Москва,sale,flat,2,3,1,36.2,-1,0,7891600,, Генерала Донскова,29к5,Апрелевка,Борисоглебское
+Самолет,developer,https://www.cian.ru/sale/flat/309188375/,Москва,sale,flat,12,14,1,41.45,-1,0,7930266,,,6,Рассказовка,Квартал Западный ЖК
+Концерн КРОСТ,developer,https://www.cian.ru/sale/flat/306784499/,Москва,sale,flat,8,22,1,26.3,-1,0,7995200,,,,Прокшино,Новая Звезда ЖК
+Новые Ватутинки,developer,https://www.cian.ru/sale/flat/303068018/,Москва,sale,flat,2,11,1,33.2,-1,0,7995000,,,,Кедровая,"Новые Ватутинки, мкр. Заречный"
+А101,developer,https://www.cian.ru/sale/flat/306745204/,Москва,sale,flat,3,9,1,33.9,-1,0,7903030,,,1.2,Толстопальцево,Родные кварталы ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309186104/,Москва,sale,flat,9,14,1,33.31,-1,0,7932594,,,к17,Щербинка,Остафьево ЖК
+Аквилон,developer,https://www.cian.ru/sale/flat/306727877/,Москва,sale,flat,12,23,1,23.5,-1,0,7926292,Отрадное,Сигнальный проезд,12,Владыкино,Akvilon Signal
+Самолет,developer,https://www.cian.ru/sale/flat/309190481/,Москва,sale,flat,5,15,1,35.56,-1,0,7925627,,,к12,Щербинка,Алхимово ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309195542/,Москва,sale,flat,9,16,1,40.2,-1,0,7994303,,,к1,Филатов Луг,Цветочные Поляны
+Самолет,developer,https://www.cian.ru/sale/flat/309186718/,Москва,sale,flat,1,5,1,40.79,-1,0,7934063,,,к30,Рассказовка,Новое Внуково ЖК
+А101,developer,https://www.cian.ru/sale/flat/306744977/,Москва,sale,flat,8,10,1,35.0,-1,0,7965753,,,3.1,Толстопальцево,Родные кварталы ЖК
+,,https://www.cian.ru/sale/flat/308762122/,Москва,sale,flat,3,16,1,30.61,-1,0,7939836,поселок Газопровод, Лесные Поляны 5-я,,Корниловская,Смарт Гарден ЖК
+ПИК,developer,https://www.cian.ru/sale/flat/306483869/,Москва,sale,flat,2,28,1,37.1,-1,0,7966742,Крюково,Зеленоград,6.5,Зеленоград — Крюково,Зелёный парк
+ПИК,developer,https://www.cian.ru/sale/flat/303687749/,Москва,sale,flat,9,9,1,35.99,-1,0,7980062,,,к4.2,Филатов Луг,Середневский Лес ЖК
+ПИК,developer,https://www.cian.ru/sale/flat/306483952/,Москва,sale,flat,2,11,1,33.8,-1,0,7952801,Крюково,Зеленоград,22-й мкр,Зеленоград — Крюково,Зелёный парк
+Самолет,developer,https://www.cian.ru/sale/flat/309215391/,Москва,sale,flat,2,12,1,35.46,-1,0,7989315,,,9,Рассказовка,Квартал Западный ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309197820/,Москва,sale,flat,1,9,1,34.51,-1,0,7939295,,,к1,Силикатная,Подольские Кварталы ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309197721/,Москва,sale,flat,9,9,1,43.65,-1,0,7956216,,,к3,Силикатная,Подольские Кварталы ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309193581/,Москва,sale,flat,1,5,1,42.29,-1,0,7993783,Молжаниновский,,к4,Новоподрезково,Молжаниново ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309187952/,Москва,sale,flat,8,17,1,38.62,-1,0,7905475,,,к4,Филатов Луг,Квартал Марьино ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309187951/,Москва,sale,flat,14,17,1,38.27,-1,0,7994297,,,к4,Филатов Луг,Квартал Марьино ЖК
+ПИК,developer,https://www.cian.ru/sale/flat/303687892/,Москва,sale,flat,9,9,1,32.26,-1,0,7922249,,,к4.1,Филатов Луг,Середневский Лес ЖК
+,,https://www.cian.ru/sale/flat/308761989/,Москва,sale,flat,3,16,1,27.38,-1,0,7977199,поселок Газопровод, Лесные Поляны 5-я,2,Корниловская,Смарт Гарден ЖК
+Монолит,real_estate_agent,https://www.cian.ru/sale/flat/308954691/,Москва,sale,flat,10,16,1,35.4,-1,0,8000000,Ярославский, Ротерта,10К4,Медведково,
+Самолет,developer,https://www.cian.ru/sale/flat/309193243/,Москва,sale,flat,1,13,1,40.31,-1,0,8016853,Молжаниновский,,к6,Новоподрезково,Молжаниново ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309190296/,Москва,sale,flat,5,15,1,35.17,-1,0,8020659,,,к11,Щербинка,Алхимово ЖК
+,,https://www.cian.ru/sale/flat/308761984/,Москва,sale,flat,2,16,1,31.04,-1,0,8042947,поселок Газопровод, Лесные Поляны 5-я,2,Корниловская,Смарт Гарден ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309195218/,Москва,sale,flat,8,10,1,33.79,-1,0,8041043,,,к11,Филатов Луг,Цветочные Поляны ЖК

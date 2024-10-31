@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Century 21 Харламов,real_estate_agent,https://www.cian.ru/sale/flat/309086065/,Москва,sale,flat,15,17,2,54.0,-1,0,15500000,Митино,Пятницкое шоссе,7,Волоколамская,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/308200551/,Москва,sale,flat,1,12,2,44.2,-1,0,15500000,Чертаново Южное, Академика Янгеля,6,Улица Академика Янгеля,
+METRAGE,real_estate_agent,https://www.cian.ru/sale/flat/308499821/,Москва,sale,flat,3,8,2,40.0,-1,0,15500000,Таганский,Нижегородская ,9А,Москва-Товарная,
+Парадайс,real_estate_agent,https://www.cian.ru/sale/flat/306970371/,Москва,sale,flat,5,5,2,53.0,-1,0,15500000,Марьина роща,Старомарьинское шоссе,15,Бутырская,
+ОЛ ИНКЛЮЗИВ,real_estate_agent,https://www.cian.ru/sale/flat/300938173/,Москва,sale,flat,3,23,2,49.5,-1,0,15800000,Рязанский,2-й Грайвороновский проезд,44к2,Стахановская,Кварталы 21/19
+Новое Летово,developer,https://www.cian.ru/sale/flat/296320472/,Москва,sale,flat,2,7,2,58.8,-1,0,15864240,,,к1,Филатов Луг,Новое Летово ЖК
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/309126466/,Москва,sale,flat,5,9,2,36.0,-1,0,15900000,Савеловский,4-й Вятский переулок,23,Дмитровская,
+Метр-Инфо,real_estate_agent,https://www.cian.ru/sale/flat/308852857/,Москва,sale,flat,8,9,2,45.0,-1,0,15900000,Очаково-Матвеевское,Матвеевская ,10К4,Матвеевская,
+На Петровке,real_estate_agent,https://www.cian.ru/sale/flat/308800998/,Москва,sale,flat,4,6,2,41.9,-1,0,15990000,Можайский,,2.2,Рабочий посёлок,Верейская 41 ЖК
+Homeapp,real_estate_agent,https://www.cian.ru/sale/flat/308803041/,Москва,sale,flat,15,19,2,54.7,-1,0,16000000,Ховрино,Левобережная ,4к9,Ховрино,
+Homeapp,real_estate_agent,https://www.cian.ru/sale/flat/308803039/,Москва,sale,flat,15,19,2,54.8,-1,0,16000000,Ховрино,Левобережная ,4к9,Ховрино,
+Landis,real_estate_agent,https://www.cian.ru/sale/flat/300745969/,Москва,sale,flat,7,24,2,52.9,-1,0,16000000,Солнцево,Производственная ,17,Солнцево,Лучи
+ID 123523951,homeowner,https://www.cian.ru/sale/flat/308858074/,Москва,sale,flat,9,12,2,45.3,-1,0,15900000,Южное Медведково,Ясный проезд,4К2,Свиблово,
+Новые Ватутинки,developer,https://www.cian.ru/sale/flat/297843913/,Москва,sale,flat,14,14,2,65.4,-1,0,16219200,, 3-я Нововатутинская,15к3,Кедровая,"Новые Ватутинки, мкр. Центральный"
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307963262/,Москва,sale,flat,1,5,2,54.3,-1,0,16400000,Перово, Металлургов,17А,Перово,
+EstateLiga,real_estate_agent,https://www.cian.ru/sale/flat/308999957/,Москва,sale,flat,4,20,2,44.6,-1,0,16500000,Покровское-Стрешнево,Волоколамское шоссе,95/2к4,Трикотажная,City Bay
+GENESIS Asset Management,real_estate_agent,https://www.cian.ru/sale/flat/305075761/,Москва,sale,flat,4,9,2,41.0,-1,0,16500000,Текстильщики,Волжский бульвар,12К1,Текстильщики,
+Триумфальная Арка,real_estate_agent,https://www.cian.ru/sale/flat/297402438/,Москва,sale,flat,3,5,2,59.1,-1,0,16400000,Нижегородский,Орехово-Зуевский проезд,18/8,Стахановская,
+Триумфальная Арка,real_estate_agent,https://www.cian.ru/sale/flat/306081919/,Москва,sale,flat,4,17,2,51.1,-1,0,16500000,Северное Медведково,Широкая ,2к2,Медведково,
+Новое Летово,developer,https://www.cian.ru/sale/flat/296320615/,Москва,sale,flat,7,7,2,58.4,-1,0,16544720,,,к1,Филатов Луг,Новое Летово ЖК
+СТАТУС,real_estate_agent,https://www.cian.ru/sale/flat/308540058/,Москва,sale,flat,10,17,2,53.8,-1,0,17000000,Митино,Пятницкое шоссе,45,Пятницкое шоссе,
+Life Style,real_estate_agent,https://www.cian.ru/sale/flat/305335807/,Москва,sale,flat,4,17,2,72.6,-1,0,17000000,,,1,Новомосковская,
+ОГРК,real_estate_agent,https://www.cian.ru/sale/flat/308250039/,Москва,sale,flat,12,12,2,52.0,-1,0,16999999,Хорошево-Мневники, Демьяна Бедного,19К2,Народное Ополчение,
+ЕСН,real_estate_agent,https://www.cian.ru/sale/flat/303626893/,Москва,sale,flat,2,24,2,57.8,-1,0,17100000,Южное Медведково,Полярная ,4к2,Бабушкинская,
+Новое Летово,developer,https://www.cian.ru/sale/flat/296703642/,Москва,sale,flat,6,7,2,61.0,-1,0,17153200,,,к1,Филатов Луг,Новое Летово ЖК
+На Петровке,real_estate_agent,https://www.cian.ru/sale/flat/308247300/,Москва,sale,flat,12,31,2,53.6,-1,0,17300000,Южнопортовый,Волгоградский проспект,32/5к2,Угрешская,Метрополия
+Макспол Парк Культуры,real_estate_agent,https://www.cian.ru/sale/flat/307715651/,Москва,sale,flat,15,32,2,54.3,-1,0,17300000,Нижегородский,Газгольдерная ,10,Нижегородская,Profit
+Homeapp,real_estate_agent,https://www.cian.ru/sale/flat/308554500/,Москва,sale,flat,8,9,2,44.0,-1,0,17200000,Южнопортовый, Симоновский Вал,19,Дубровка,

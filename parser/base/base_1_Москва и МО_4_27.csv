@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+К8 Комплексный девелопмент,developer,https://kaliningrad.cian.ru/sale/flat/265960253/,Москва и МО,sale,flat,6,8,4,136.1,-1,0,41860141,Московский,Октябрьская ,12,,Рыбная деревня
+Таврида Девелопмент,developer,https://krym.cian.ru/sale/flat/299893570/,Москва и МО,sale,flat,1,9,4,104.15,-1,0,43222250,Массандра пгт, Мухина,17А,,Клубный дом Массандра Парк
+Таврида Девелопмент,developer,https://krym.cian.ru/sale/flat/299893569/,Москва и МО,sale,flat,1,9,4,105.19,-1,0,43653850,Массандра пгт, Мухина,17А,,Клубный дом Массандра Парк
+Таврида Девелопмент,developer,https://krym.cian.ru/sale/flat/299893575/,Москва и МО,sale,flat,2,9,4,106.94,-1,0,46935966,Массандра пгт, Мухина,17А,,Клубный дом Массандра Парк
+Прайм,real_estate_agent,https://krym.cian.ru/sale/flat/308289326/,Москва и МО,sale,flat,11,14,4,176.0,-1,0,70400000,Ялта, Щорса,20,,Вершина успеха
+ГРАНИТ,real_estate_agent,https://novgorod.cian.ru/sale/flat/307084201/,Москва и МО,sale,flat,3,5,4,61.1,-1,0,2290000,Малая Вишера,Лесная ,36,,
+Самолет Плюс Чита,real_estate_agent,https://chita.cian.ru/sale/flat/301650086/,Москва и МО,sale,flat,1,2,4,114.8,-1,0,2300000,Ингодинский, Каларская,35,,
+Флагман,real_estate_agent,https://irkutsk.cian.ru/sale/flat/307697102/,Москва и МО,sale,flat,4,5,4,57.3,-1,0,2510000,Мишелевка рп, Лесная,19,,
+Владис,real_estate_agent,https://bryansk.cian.ru/sale/flat/277869376/,Москва и МО,sale,flat,2,5,4,58.4,-1,0,2850000,Бежицкий, Бурова,2А,,
+DMD НЕДВИЖИМОСТЬ,real_estate_agent,https://orenburg.cian.ru/sale/flat/308582260/,Москва и МО,sale,flat,2,5,4,61.5,-1,0,3490000,Советский, Юлина,6Б,,
+ЛеАН,real_estate_agent,https://tula.cian.ru/sale/flat/293308713/,Москва и МО,sale,flat,5,5,4,58.2,-1,0,3600000,Новомосковск, Маяковского,6,,
+Самолет Плюс Оренбург,real_estate_agent,https://orenburg.cian.ru/sale/flat/307500524/,Москва и МО,sale,flat,3,5,4,61.2,-1,0,3690000,Центральный,Больничный проезд,8А,,
+Игорь Дубняк,realtor,https://murmansk.cian.ru/sale/flat/304064661/,Москва и МО,sale,flat,3,6,4,60.0,-1,0,3890000,Ленинский, Аскольдовцев,27,,
+Ваша Недвижимость,real_estate_agent,https://kemerovo.cian.ru/sale/flat/305993740/,Москва и МО,sale,flat,1,5,4,76.0,-1,0,3949000,пос. Металлургов, Школьная,4,,
+Этажи Тула,real_estate_agent,https://tula.cian.ru/sale/flat/309037770/,Москва и МО,sale,flat,5,5,4,59.5,-1,0,3900000,мкр. Менделеевский, Ленина,19,,
+ID 91302817,homeowner,https://rostov.cian.ru/sale/flat/307888234/,Москва и МО,sale,flat,1,5,4,61.1,-1,0,3900000,Новочеркасск, Беляева,4А,,
+Ипотечное агенство Югры,real_estate_agent,https://hmao.cian.ru/sale/flat/302532976/,Москва и МО,sale,flat,4,5,4,58.8,-1,0,4000000,Нижневартовск, Дружбы Народов,13,,
+Грани,real_estate_agent,https://voronezh.cian.ru/sale/flat/307277502/,Москва и МО,sale,flat,1,6,4,61.6,-1,0,4000000,Советский, Героев Сибиряков,99,,
+Павел Смирнов,realtor,https://vladimir.cian.ru/sale/flat/298828808/,Москва и МО,sale,flat,4,9,4,73.7,-1,0,4100000,Кольчугино, Веденеева,14,,
+Грани,real_estate_agent,https://voronezh.cian.ru/sale/flat/303358435/,Москва и МО,sale,flat,4,5,4,62.8,-1,0,4200000,Советский,Южно-Моравская ,34,,
+ЖИЛФОНД,real_estate_agent,https://barnaul.cian.ru/sale/flat/306492047/,Москва и МО,sale,flat,1,3,4,79.2,-1,0,4200000,пос. Новые зори,Комсомольская ,35,,
+КРАЙНОВ  недвижимость,real_estate_agent,https://voronezh.cian.ru/sale/flat/307219599/,Москва и МО,sale,flat,5,5,4,62.8,-1,0,4200000,Советский, Шендрикова,12,,
+Дачный сезон,real_estate_agent,https://kemerovo.cian.ru/sale/flat/303362087/,Москва и МО,sale,flat,1,5,4,60.9,-1,0,4200000,Рудничный,Советская ,6,,
+Этажи Тула,real_estate_agent,https://tula.cian.ru/sale/flat/308386058/,Москва и МО,sale,flat,4,5,4,57.6,-1,0,4290000,,,,,
+Лидер,real_estate_agent,https://lipetsk.cian.ru/sale/flat/309061346/,Москва и МО,sale,flat,3,5,4,60.0,-1,0,4300000,,,,,
+Флагман,real_estate_agent,https://irkutsk.cian.ru/sale/flat/307073427/,Москва и МО,sale,flat,2,5,4,58.9,-1,0,4500000,Усолье-Сибирское,проспект Красных Партизан,18,,
+Этажи Тула,real_estate_agent,https://tula.cian.ru/sale/flat/308383760/,Москва и МО,sale,flat,5,5,4,74.8,-1,0,4500000,мкр. Косая Гора, Пушкина,18,,
+ЭТАЖИ Тамбов,real_estate_agent,https://tambov.cian.ru/sale/flat/293054033/,Москва и МО,sale,flat,2,5,4,60.0,-1,0,4500000,Октябрьский, Рылеева,47,,

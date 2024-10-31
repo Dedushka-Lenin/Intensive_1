@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Этажи Краснодар,real_estate_agent,https://krasnodar.cian.ru/sale/flat/307765719/,Москва и МО,sale,flat,1,9,3,63.7,-1,0,7300000,Фестивальный мкр, Фестивальная,37,,
+ССК,developer,https://krasnodar.cian.ru/sale/flat/302120861/,Москва и МО,sale,flat,15,16,3,55.2,-1,0,7341600,,,,,Дыхание
+СМК,developer,https://spb.cian.ru/sale/flat/297408982/,Москва и МО,sale,flat,1,4,3,74.04,-1,0,7715747,,,,,Новокасимово
+Объединение Застройщиков,representative_developer,https://rostov.cian.ru/sale/flat/301723064/,Москва и МО,sale,flat,7,9,3,71.37,-1,0,7993440,,,,,Вишневый сад
+ТОЧНО,developer,https://krasnodar.cian.ru/sale/flat/296589200/,Москва и МО,sale,flat,5,8,3,74.42,-1,0,7962940,,,,,Цветной бульвар
+Стоун,developer,https://spb.cian.ru/sale/flat/299737709/,Москва и МО,sale,flat,1,8,3,68.5,-1,0,8049500,,,,,Ермак
+ГК ШАГИ К УСПЕХУ,developer,https://kazan.cian.ru/sale/flat/293250950/,Москва и МО,sale,flat,11,18,3,78.1,-1,0,8100000,"на 11 этаже. Новый жилой комплекс ""Апельсин"" от застройщика ""ГК Шаги"" расположен по адресу город Зеленодольск",проспект Строителей.,,,Акварели Парк
+Единение,developer,https://tolyatti.cian.ru/sale/flat/301516174/,Москва и МО,sale,flat,1,9,3,79.22,-1,0,8318100,Автозаводский,18А кв-л,18А кв-л,,Автограф
+МСК,developer,https://rostov.cian.ru/sale/flat/276739415/,Москва и МО,sale,flat,1,33,3,59.89,-1,0,8444490,Кировский,,,,Донской Арбат ЖК
+МСК,developer,https://rostov.cian.ru/sale/flat/225750451/,Москва и МО,sale,flat,20,26,3,74.5,-1,0,8567500,Первомайский, Раздорская,2А,,Грин Парк
+Семья,developer,https://krasnodar.cian.ru/sale/flat/301183288/,Москва и МО,sale,flat,9,9,3,71.33,-1,0,8559600,,,,,Друзья
+Единение,developer,https://tolyatti.cian.ru/sale/flat/295147155/,Москва и МО,sale,flat,2,8,3,88.94,-1,0,8680544,Центральный,Советская ,60А,,Дом на Советской
+Конти,developer,https://spb.cian.ru/sale/flat/297108222/,Москва и МО,sale,flat,1,4,3,70.8,-1,0,8850000,Новая Дубровка кп, Достоевского,1,,Новая Дубровка
+Неометрия,developer,https://krasnodar.cian.ru/sale/flat/288304613/,Москва и МО,sale,flat,1,24,3,64.1,-1,0,8890670,Прикубанский, Имени Героя Георгия Бочарникова,2,,Улыбка
+ВИРА,developer,https://samara.cian.ru/sale/flat/292571623/,Москва и МО,sale,flat,15,23,3,95.6,-1,0,8890800,Куйбышевский,Белорусская ,26,Алабинская,Две реки
+РКС,developer,https://rostov.cian.ru/sale/flat/288447215/,Москва и МО,sale,flat,8,19,3,87.0,-1,0,8874000,,,,,Норд-Премьер
+Сокол,developer,https://rostov.cian.ru/sale/flat/300815933/,Москва и МО,sale,flat,23,24,3,77.02,-1,0,8857300,Советский, Еременко,113,,Сокольники
+Магазин новостроек,representative_developer,https://krasnodar.cian.ru/sale/flat/300284533/,Москва и МО,sale,flat,4,8,3,89.1,-1,0,8910000,Темрюк, Обороны,2/2,,Морской
+Унистрой,developer,https://tolyatti.cian.ru/sale/flat/294939853/,Москва и МО,sale,flat,1,11,3,81.94,-1,0,9204000,Автозаводский,,,,Южный Бульвар ЖК
+ЧФК-Недвижимость,real_estate_agent,https://krasnodar.cian.ru/sale/flat/303801521/,Москва и МО,sale,flat,8,17,3,86.0,-1,0,9480000,мкр. имени Жукова, Александра Покрышкина,4/5,,Георгиевский
+Кристалл,real_estate_agent,https://spb.cian.ru/sale/flat/307671185/,Москва и МО,sale,flat,9,9,3,61.8,-1,0,9500000,Фрунзенский, Турку,9К5,Международная,
+Семья,developer,https://krasnodar.cian.ru/sale/flat/302658836/,Москва и МО,sale,flat,9,18,3,72.01,-1,0,9793360,,,,,Теплые края
+МСК,developer,https://rostov.cian.ru/sale/flat/291670956/,Москва и МО,sale,flat,7,21,3,76.6,-1,0,9804800,Кировский,Кировский проспект,,,Донской Арбат 2
+Сокол,developer,https://rostov.cian.ru/sale/flat/280082660/,Москва и МО,sale,flat,15,19,3,102.1,-1,0,10210000,Пролетарский,проспект 40-летия Победы,63/17с3,,Сокол Градъ
+Девелопмент-Юг,real_estate_agent,https://krasnodar.cian.ru/sale/flat/294160000/,Москва и МО,sale,flat,14,16,3,80.0,-1,0,10300000,мкр. Восточно-Кругликовский, Им. Героя Яцкова И.В.,10,,Восточно-Кругликовский
+ЮгСтройИнвест,developer,https://krasnodar.cian.ru/sale/flat/298331563/,Москва и МО,sale,flat,5,18,3,78.55,-1,0,10474643,Прикубанский, Имени Героя Николая Шевелева,15,,Губернский
+МСК,developer,https://rostov.cian.ru/sale/flat/302474010/,Москва и МО,sale,flat,13,26,3,76.85,-1,0,10682150,Ворошиловский,проспект Космонавтов,1В,,Акватория
+МСК,developer,https://rostov.cian.ru/sale/flat/253681306/,Москва и МО,sale,flat,23,26,3,78.55,-1,0,10997000,Ворошиловский, Ларина,45с8,,Сердце Ростова 2

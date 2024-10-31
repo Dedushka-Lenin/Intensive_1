@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+SENATOR,developer,https://spb.cian.ru/sale/flat/300245913/,Москва и МО,sale,flat,4,12,1,47.7,-1,0,18216375,Курортный,Приморское шоссе,570Л,,МФК Морская ривьера
+МГСН-Проспект Мира,real_estate_agent,https://www.cian.ru/sale/flat/308907514/,Москва и МО,sale,flat,10,19,1,60.0,-1,0,27500000,Хорошево-Мневники,проспект Маршала Жукова,76к2,Народное Ополчение,
+LEGENDA Development,developer,https://spb.cian.ru/sale/flat/306641691/,Москва и МО,sale,flat,8,10,1,35.79,-1,0,12755556,Василеостровский,Кожевенная линия,,Горный институт,LEGENDA Васильевского
+Century 21 Premium Property,real_estate_agent,https://www.cian.ru/sale/flat/299341036/,Москва и МО,sale,flat,10,34,1,64.4,-1,0,51000000,Дорогомилово,Поклонная ,9,Поклонная,Поклонная 9
+Интеллект,developer,https://krym.cian.ru/sale/flat/306356337/,Москва и МО,sale,flat,7,20,1,24.84,-1,0,7318478,,,,,Крымская Резиденция
+House Estate,real_estate_agent,https://spb.cian.ru/sale/flat/275227744/,Москва и МО,sale,flat,4,19,1,35.0,-1,0,11980000,Василеостровский,Морской,,Приморская,GloraX Premium Василеостровский
+Неометрия,developer,https://sochi.cian.ru/sale/flat/302444728/,Москва и МО,sale,flat,8,10,1,22.2,-1,0,26140500,Адлерский,Адлер жилрайон,,,Гостиничный комплекс 
+Диалог Риэлт,real_estate_agent,https://lyubertsy.cian.ru/sale/flat/299267020/,Москва и МО,sale,flat,19,23,1,35.9,-1,0,6100000,,Красноармейская ,19,Люберцы,
+Element,developer,https://spb.cian.ru/sale/flat/305423487/,Москва и МО,sale,flat,2,11,1,37.6,-1,0,18525806,Московский, Коли Томчака,,Московские ворота,Коллекционный Дом 1919
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/308063057/,Москва и МО,sale,flat,24,49,1,43.9,-1,0,27800000,Раменки, Лобачевского,114с1,Аминьевская,Событие
+Унистрой,developer,https://spb.cian.ru/sale/flat/307841426/,Москва и МО,sale,flat,6,10,1,35.0,-1,0,13860000,Красногвардейский,шоссе Революции,3к2,Площадь Ленина,Upoint на Пискарёвском
+NIKA ESTATE,real_estate_agent,https://www.cian.ru/sale/flat/306945307/,Москва и МО,sale,flat,21,24,1,40.8,-1,0,30000000,Хорошевский,Хорошевское шоссе,25Ак3,Полежаевская,Династия
+Петербургская Недвижимость,representative_developer,https://spb.cian.ru/sale/flat/308096257/,Москва и МО,sale,flat,10,12,1,32.69,-1,0,10250161,Московский,м. Ленинский проспект,,Ленинский проспект,Титул в Московском
+СОВКОМБАНК,official_representative,https://lyubertsy.cian.ru/sale/flat/308416128/,Москва и МО,sale,flat,2,17,1,34.0,-1,0,6700000,, Камова,10к1,Некрасовка,
+Петербургская Недвижимость,representative_developer,https://spb.cian.ru/sale/flat/308048986/,Москва и МО,sale,flat,9,12,1,32.32,-1,0,9800086,Московский,Кубинская ,76к1,Ленинский проспект,Сенат
+SUNRISE Estate,real_estate_agent,https://www.cian.ru/sale/flat/308829538/,Москва и МО,sale,flat,33,41,1,46.0,-1,0,21000000,Хорошево-Мневники,Шелепихинская набережная,34к5,Шелепиха,Сердце Столицы
+Интеском,developer,https://spb.cian.ru/sale/flat/309188603/,Москва и МО,sale,flat,2,5,1,43.5,-1,0,10875000,Выборгский, Береговая,6,Проспект Просвещения,Loft у Озера
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/307098964/,Москва и МО,sale,flat,7,48,1,55.5,-1,0,33000000,Ростокино, Вильгельма Пика,3С1,Ботанический сад,Режиссёр
+ЛСР Санкт-Петербург,developer,https://spb.cian.ru/sale/flat/308097305/,Москва и МО,sale,flat,14,18,1,32.77,-1,0,9339450,Невский,,,Елизаровская,Цивилизация на Неве
+SPB Housing,real_estate_agent,https://spb.cian.ru/sale/flat/309140388/,Москва и МО,sale,flat,2,11,1,39.4,-1,0,14187000,Адмиралтейский,Московский проспект,73к4,Фрунзенская,Новомосковский
+Петербургская Недвижимость,representative_developer,https://spb.cian.ru/sale/flat/309101024/,Москва и МО,sale,flat,3,5,1,39.05,-1,0,20559825,Василеостровский,,,Горный институт,Империал Клаб ЖК
+Агентство недвижимости Сергея Галлера,real_estate_agent,https://spb.cian.ru/sale/flat/308073897/,Москва и МО,sale,flat,8,10,1,39.6,-1,0,14700000,Адмиралтейский, Парфеновская,,Фрунзенская,Квартал Галактика
+СК10,developer,https://rostov.cian.ru/sale/flat/303045403/,Москва и МО,sale,flat,24,25,1,33.37,-1,0,4110000,Советский,,,,Малина парк
+ID 17498307,homeowner,https://www.cian.ru/sale/flat/308837547/,Москва и МО,sale,flat,5,10,1,40.4,-1,0,28900000,Дорогомилово,Кутузовский проспект,30,Кутузовская,
+Петербургская Недвижимость,representative_developer,https://spb.cian.ru/sale/flat/302965619/,Москва и МО,sale,flat,4,5,1,34.83,-1,0,7150231,Московский,Пулковский меридиан,,Звездная,Парадный ансамбль
+Домовой,real_estate_agent,https://sochi.cian.ru/sale/flat/295792599/,Москва и МО,sale,flat,5,5,1,35.0,-1,0,12500000,с. Эстосадок, Созвездий,3,,
+Эталон,developer,https://ekb.cian.ru/sale/flat/308412177/,Москва и МО,sale,flat,2,5,1,38.08,-1,0,5498522,,,,,Балтым-Парк
+Домовой,real_estate_agent,https://sochi.cian.ru/sale/flat/308570428/,Москва и МО,sale,flat,7,12,1,37.0,-1,0,12500000,Адлерский, Искры,88к1,,

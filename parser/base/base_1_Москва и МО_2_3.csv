@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+BERI,real_estate_agent,https://www.cian.ru/sale/flat/308564452/,Москва и МО,sale,flat,8,12,2,38.3,-1,0,18315000,Хорошевский, Куусинена,6К10,Полежаевская,
+Эталон СПБ,developer,https://spb.cian.ru/sale/flat/305431597/,Москва и МО,sale,flat,2,8,2,60.4,-1,0,17988519,Адмиралтейский,бульвар Измайловский,11,Московские ворота,Квартал Галактика
+Екатерина Сухий,realtor,https://www.cian.ru/sale/flat/308360046/,Москва и МО,sale,flat,4,9,2,43.1,-1,0,28700000,Аэропорт,Ленинградский проспект,54/1,Аэропорт,
+Voller.one,real_estate_agent,https://www.cian.ru/sale/flat/305211958/,Москва и МО,sale,flat,4,4,2,60.0,-1,0,15000000,Сокольники,2-я Рыбинская ,13,Красносельская,Loft Garden
+Базис,developer,https://spb.cian.ru/sale/flat/301311408/,Москва и МО,sale,flat,9,12,2,61.4,-1,0,,Приморский,Белоостровская ,7,Лесная,Белый остров
+Point Estate Город,real_estate_agent,https://www.cian.ru/sale/flat/307575540/,Москва и МО,sale,flat,4,21,2,54.0,-1,0,58000000,Пресненский,2-я Звенигородская ,14,Улица 1905 года,Lucky
+ID 74991203,homeowner,https://www.cian.ru/sale/flat/308079051/,Москва и МО,sale,flat,3,24,2,53.2,-1,0,19370000,Донской,Новоданиловская набережная,8к2,Верхние котлы,Новоданиловская 8
+Эталон СПБ,developer,https://spb.cian.ru/sale/flat/303574423/,Москва и МО,sale,flat,2,9,2,50.6,-1,0,32588954,Петроградский, Профессора Попова,,Чкаловская,ЛДМ
+White and Broughton,real_estate_agent,https://www.cian.ru/sale/flat/301763282/,Москва и МО,sale,flat,39,41,2,56.9,-1,0,40000000,Хорошевский,Ленинградский проспект,37/6,Аэропорт,Прайм Парк
+Макромир,real_estate_agent,https://khimki.cian.ru/sale/flat/304553507/,Москва и МО,sale,flat,2,5,2,58.4,-1,0,11900000,, Победы,2/15,Химки,
+ЛСР Санкт-Петербург,developer,https://spb.cian.ru/sale/flat/294660282/,Москва и МО,sale,flat,9,17,2,66.92,-1,0,16268252,Василеостровский,Гавань,,Приморская,Морская Набережная ЖК
+Intermark Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/309180264/,Москва и МО,sale,flat,5,7,2,65.0,-1,0,65000000,Хамовники,1-й Зачатьевский переулок,4,Кропоткинская,
+Delight Realty,real_estate_agent,https://www.cian.ru/sale/flat/307935729/,Москва и МО,sale,flat,8,10,2,59.7,-1,0,55000000,Таганский,Котельническая набережная,1/15кВ,Таганская,
+Петербургская Недвижимость,representative_developer,https://spb.cian.ru/sale/flat/296753888/,Москва и МО,sale,flat,1,8,2,71.4,-1,0,26418000,Петроградский,Петровский проспект,24к2,Крестовский остров,Петровский квартал на воде
+Intermark Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/308208787/,Москва и МО,sale,flat,2,3,2,77.0,-1,0,55000000,Хамовники,Саввинская набережная,5,Киевская,
+Sminex,developer,https://www.cian.ru/sale/flat/306341798/,Москва и МО,sale,flat,4,12,2,86.1,-1,0,219020000,Хамовники,Фрунзенская набережная,30,Фрунзенская,Клубный город-парк 
+Петербургская Строительная Компания,developer,https://spb.cian.ru/sale/flat/284740280/,Москва и МО,sale,flat,5,7,2,67.5,-1,0,25987500,Петроградский,набережная Реки Карповки,31к2,Петроградская,Северная Корона
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/308987029/,Москва и МО,sale,flat,9,12,2,53.34,-1,0,39975000,Тверской,2-я Брестская ,6,Маяковская,Резиденция Тверская
+Винсент Недвижимость Центральный Офис номер 1,real_estate_agent,https://sochi.cian.ru/sale/flat/306951109/,Москва и МО,sale,flat,5,9,2,65.0,-1,0,33500000,Адлерский, Павлика Морозова,24,,
+Element,developer,https://spb.cian.ru/sale/flat/305422677/,Москва и МО,sale,flat,5,8,2,58.53,-1,0,35485937,Петроградский,Ремесленная ,17литЗ,Чкаловская,17/33 Петровский остров
+Kalinka Group,real_estate_agent,https://www.cian.ru/sale/flat/308882629/,Москва и МО,sale,flat,9,12,2,79.8,-1,0,48000000,Тверской,2-я Брестская ,6,Маяковская,Резиденция Тверская
+Авеню-Мск,real_estate_agent,https://www.cian.ru/sale/flat/307311593/,Москва и МО,sale,flat,16,17,2,54.7,-1,0,12700000,, Летчика Грицевца,8,Пыхтино,Солнцево парк
+LEGENDA Development,developer,https://spb.cian.ru/sale/flat/305473856/,Москва и МО,sale,flat,2,9,2,74.33,-1,0,26558109,Приморский,Чёрная речка,,Черная речка,"Черная речка, 41"
+ID 52825739,homeowner,https://www.cian.ru/sale/flat/307814530/,Москва и МО,sale,flat,7,15,2,46.5,-1,0,23900000,Хорошевский,Ходынский бульвар,20А,ЦСКА,Лайнер
+MERSI,real_estate_agent,https://www.cian.ru/sale/flat/308549670/,Москва и МО,sale,flat,13,33,2,40.0,-1,0,17900000,Метрогородок,Открытое шоссе,18Ак4,Бульвар Рокоссовского,Лосиноостровский парк
+Балтийская коммерция,developer,https://spb.cian.ru/sale/flat/306971701/,Москва и МО,sale,flat,4,9,2,70.2,-1,0,28054728,Петроградский, Чапаева,17к2,Горьковская,Мануфактура James Beck
+Владислав Карпов,realtor,https://www.cian.ru/sale/flat/308833064/,Москва и МО,sale,flat,15,28,2,64.5,-1,0,49000000,Раменки,Винницкая ,8к2,Раменки,Настоящее
+Дмитрий Костров,realtor,https://spb.cian.ru/sale/flat/308718920/,Москва и МО,sale,flat,3,5,2,52.8,-1,0,9850000,Пушкинский, Нины Петровой,8к1,Купчино,ЮгТаун. Олимпийские кварталы

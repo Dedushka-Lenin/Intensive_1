@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+ПАН Партнер,real_estate_agent,https://spb.cian.ru/sale/flat/306983528/,Москва и МО,sale,flat,10,12,2,47.0,-1,0,7600000,,проспект Строителей,1к1,Улица Дыбенко,ID Kudrovo
+Century 21,real_estate_agent,https://spb.cian.ru/sale/flat/303481614/,Москва и МО,sale,flat,4,9,2,45.5,-1,0,7734000,Кировский,Дачный проспект,17К1,Проспект Ветеранов,
+АльфаСтройИнвест,developer,https://rostov.cian.ru/sale/flat/296474670/,Москва и МО,sale,flat,14,22,2,47.33,-1,0,7667460,Советский,,,,Frame ЖК
+ПАН Партнер,real_estate_agent,https://spb.cian.ru/sale/flat/306984096/,Москва и МО,sale,flat,10,10,2,58.0,-1,0,7790000,пос. Бугры, Школьная,9,,
+Гарант Плюс Недвижимость,real_estate_agent,https://lipetsk.cian.ru/sale/flat/300579426/,Москва и МО,sale,flat,4,5,2,83.0,-1,0,7750000,Советский,Первомайская ,37,,
+ТУС,developer,https://cheboksary.cian.ru/sale/flat/298841481/,Москва и МО,sale,flat,2,12,2,53.7,-1,0,7786500,Московский, Академика РАН Х.М. Миначева,поз8,,мкр. Университетский-2
+РИСАН,developer,https://penza.cian.ru/sale/flat/296802935/,Москва и МО,sale,flat,15,23,2,60.5,-1,0,7986000,Ленинский,,,,Центральный квартал Скала Сити ЖК
+ВолгаЖилСтрой,real_estate_agent,https://nn.cian.ru/sale/flat/298604051/,Москва и МО,sale,flat,9,10,2,49.8,-1,0,8000000,Советский,Светлогорский проезд,4А,,
+ЧФК-Недвижимость,real_estate_agent,https://krasnodar.cian.ru/sale/flat/302967317/,Москва и МО,sale,flat,7,19,2,58.8,-1,0,8000000,Прикубанский, Адмирала Серебрякова,3к1,,Дружный
+Доброград,developer,https://vladimir.cian.ru/sale/flat/300276857/,Москва и МО,sale,flat,1,5,2,63.8,-1,0,8022490,пос. Доброград, Долголетия,2к2,,Город Доброград
+Неометрия,developer,https://krasnodar.cian.ru/sale/flat/300698675/,Москва и МО,sale,flat,7,23,2,61.2,-1,0,8125170,,,,,Отражение
+МСК,developer,https://rostov.cian.ru/sale/flat/276740743/,Москва и МО,sale,flat,14,33,2,51.46,-1,0,8079220,Кировский,,,,Донской Арбат ЖК
+К8 Комплексный девелопмент,developer,https://kaliningrad.cian.ru/sale/flat/299900060/,Москва и МО,sale,flat,4,9,2,44.4,-1,0,8229451,Центральный, Дубовая Аллея,,,Теодор Кроне
+Третий Трест,developer,https://ufa.cian.ru/sale/flat/295105678/,Москва и МО,sale,flat,3,26,2,54.58,-1,0,8263684,Октябрьский, Воинов-Интернационалистов,1,,Микрорайон 
+Адресат,real_estate_agent,https://volgograd.cian.ru/sale/flat/300329515/,Москва и МО,sale,flat,22,22,2,64.9,-1,0,8400000,Красноармейский,Пролетарская ,49а,,Дом на Пролетарской
+ФСК,developer,https://spb.cian.ru/sale/flat/295185646/,Москва и МО,sale,flat,4,12,2,60.32,-1,0,8416902,,,,,UP-квартал Воронцовский
+ПСК-6,developer,https://ufa.cian.ru/sale/flat/299143874/,Москва и МО,sale,flat,12,34,2,40.24,-1,0,8490640,Советский,лит1,лит1,,Космос ЖК
+ЛенРусСтрой,developer,https://spb.cian.ru/sale/flat/295767486/,Москва и МО,sale,flat,6,12,2,48.29,-1,0,8595620,Новоселье городской поселок, Большая Балтийская,10к2,,ЛесART
+АВРОРА,real_estate_agent,https://surgut.cian.ru/sale/flat/305372071/,Москва и МО,sale,flat,4,18,2,64.7,-1,0,8700000,мкр. 39-й, Крылова,38,,
+Адресат,real_estate_agent,https://volgograd.cian.ru/sale/flat/298845715/,Москва и МО,sale,flat,1,9,2,61.9,-1,0,8699000,Дзержинский, 8-й Воздушной Армии,14А,,Роза Ветров
+МСК,developer,https://rostov.cian.ru/sale/flat/284296455/,Москва и МО,sale,flat,9,26,2,58.4,-1,0,8760000,Железнодорожный,Привокзальная ,9,,Royal Towers
+Объединение Застройщиков,representative_developer,https://voronezh.cian.ru/sale/flat/300477961/,Москва и МО,sale,flat,25,25,2,66.0,-1,0,8751600,Ленинский,Краснознаменная ,57/5,,Высота
+Родные берега,developer,https://irkutsk.cian.ru/sale/flat/300730602/,Москва и МО,sale,flat,6,19,2,47.91,-1,0,8863350,Октябрьский,Дальневосточная ,46А,,SALUT
+ВДК,developer,https://voronezh.cian.ru/sale/flat/302402876/,Москва и МО,sale,flat,11,18,2,64.08,-1,0,9022464,Центральный, Ломоносова,116/38,,Городские сады
+АРСЕНАЛ,developer,https://nn.cian.ru/sale/flat/298036125/,Москва и МО,sale,flat,5,10,2,58.5,-1,0,9399030,Нижегородский,Деловая ,22,Горьковская,Облака
+ID 76403950,homeowner,https://anapa.cian.ru/sale/flat/296987611/,Москва и МО,sale,flat,9,13,2,75.5,-1,0,9490000,Анапа,Крестьянская ,27к6,,Лазурный
+ПСК-6,developer,https://ufa.cian.ru/sale/flat/299144271/,Москва и МО,sale,flat,12,34,2,44.8,-1,0,9676800,Советский,лит1,лит1,,Космос ЖК
+КОМОССТРОЙ,developer,https://kazan.cian.ru/sale/flat/300938824/,Москва и МО,sale,flat,10,18,2,58.6,-1,0,9898350,Приволжский,,,Аметьево,Паркмаяк ЖК

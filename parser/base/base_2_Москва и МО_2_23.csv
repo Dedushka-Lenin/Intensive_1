@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+ЧФК-Недвижимость,real_estate_agent,https://krasnodar.cian.ru/sale/flat/301032918/,Москва и МО,sale,flat,2,24,2,58.3,-1,0,5800000,мкр. ККБ, Домбайская,55к3,,Свобода
+ЧФК-Недвижимость,real_estate_agent,https://krasnodar.cian.ru/sale/flat/302596262/,Москва и МО,sale,flat,16,24,2,52.9,-1,0,5900000,мкр. ККБ, Домбайская,55,,Свобода
+ЧФК-Недвижимость,real_estate_agent,https://krasnodar.cian.ru/sale/flat/299467649/,Москва и МО,sale,flat,6,16,2,60.0,-1,0,5900000,Прикубанский, Западный обход,39/1к6,,Зелёный театр
+ЧФК-Недвижимость,real_estate_agent,https://krasnodar.cian.ru/sale/flat/308133254/,Москва и МО,sale,flat,6,16,2,69.9,-1,0,6000000,Прикубанский, 9-я Тихая,5,,
+ART House,real_estate_agent,https://kazan.cian.ru/sale/flat/307886389/,Москва и МО,sale,flat,2,5,2,47.8,-1,0,6000000,Московский,Волгоградская ,4,Яшьлек,
+ЧФК-Недвижимость,real_estate_agent,https://krasnodar.cian.ru/sale/flat/306936369/,Москва и МО,sale,flat,1,16,2,60.8,-1,0,6099000,Зеленодар ЖК, Садовое Кольцо,11,,
+ЧФК-Недвижимость,real_estate_agent,https://krasnodar.cian.ru/sale/flat/308141355/,Москва и МО,sale,flat,10,24,2,45.85,-1,0,6150000,Прикубанский, Героя Пешкова,14к1,,
+Альтера,real_estate_agent,https://kazan.cian.ru/sale/flat/308222699/,Москва и МО,sale,flat,1,5,2,47.6,-1,0,6200000,Приволжский, Рихарда Зорге,61,Проспект Победы,
+ЭТАЖИ КАЗАНЬ,real_estate_agent,https://kazan.cian.ru/sale/flat/308678498/,Москва и МО,sale,flat,14,18,2,63.0,-1,0,6300000,Кировский, Наиля Юсупова,5А,Авиастроительная,Салават Купере
+ЧФК-Недвижимость,real_estate_agent,https://krasnodar.cian.ru/sale/flat/306932597/,Москва и МО,sale,flat,16,17,2,76.0,-1,0,6749000,Прикубанский, Душистая,77к1,,Дуэт
+ЭТАЖИ КАЗАНЬ,real_estate_agent,https://kazan.cian.ru/sale/flat/308688658/,Москва и МО,sale,flat,4,5,2,43.2,-1,0,6790000,Советский, Аделя Кутуя,7,Суконная слобода,
+ЧФК-Недвижимость,real_estate_agent,https://krasnodar.cian.ru/sale/flat/303805486/,Москва и МО,sale,flat,2,16,2,54.0,-1,0,6800000,Прикубанский, Западный обход,39/1к6,,Зелёный театр
+Альтера,real_estate_agent,https://kazan.cian.ru/sale/flat/304666179/,Москва и МО,sale,flat,6,8,2,38.0,-1,0,6999000,Авиастроительный,Тэцевская ,4Д,Авиастроительная,Яркий
+ЧФК-Недвижимость,real_estate_agent,https://krasnodar.cian.ru/sale/flat/305487139/,Москва и МО,sale,flat,9,16,2,62.3,-1,0,7000000,Прикубанский, Академика Лукьяненко,12/1,,Академический
+МСК,developer,https://rostov.cian.ru/sale/flat/300358878/,Москва и МО,sale,flat,23,26,2,56.9,-1,0,7055600,Первомайский, Раздорская,2А,,Грин Парк
+ЧФК-Недвижимость,real_estate_agent,https://krasnodar.cian.ru/sale/flat/304943702/,Москва и МО,sale,flat,23,24,2,60.0,-1,0,7100000,Прикубанский,бульвар Адмирала Пустошкина,11/2,,
+ЧФК-Недвижимость,real_estate_agent,https://krasnodar.cian.ru/sale/flat/298773168/,Москва и МО,sale,flat,13,16,2,56.79,-1,0,7200000,Прикубанский,проезд Репина,20,,
+ЧФК-Недвижимость,real_estate_agent,https://krasnodar.cian.ru/sale/flat/305459958/,Москва и МО,sale,flat,3,9,2,51.0,-1,0,7250000,Прикубанский, Скандинавская,1к8,,Новые сезоны
+ЧФК-Недвижимость,real_estate_agent,https://krasnodar.cian.ru/sale/flat/305669739/,Москва и МО,sale,flat,7,16,2,64.9,-1,0,7300000,Прикубанский, Академика Лукьяненко,36,,
+ЭТАЖИ КАЗАНЬ,real_estate_agent,https://kazan.cian.ru/sale/flat/308678577/,Москва и МО,sale,flat,6,9,2,51.8,-1,0,7390000,Советский, Академика Сахарова,1,Горки,
+ART House,real_estate_agent,https://kazan.cian.ru/sale/flat/308353543/,Москва и МО,sale,flat,5,9,2,53.8,-1,0,7390000,Приволжский, Академика Завойского,2,Проспект Победы,
+Доннефтестрой,developer,https://rostov.cian.ru/sale/flat/297941161/,Москва и МО,sale,flat,7,15,2,55.0,-1,0,7425000,,,,,Флора
+ЧФК-Недвижимость,real_estate_agent,https://krasnodar.cian.ru/sale/flat/307538377/,Москва и МО,sale,flat,10,24,2,53.3,-1,0,7500000,Прикубанский,бульвар Адмирала Пустошкина,11/3,,
+ЧФК-Недвижимость,real_estate_agent,https://krasnodar.cian.ru/sale/flat/306793938/,Москва и МО,sale,flat,4,4,2,64.5,-1,0,7500000,мкр. РИП,Российская ,432,,
+ЧФК-Недвижимость,real_estate_agent,https://krasnodar.cian.ru/sale/flat/301163036/,Москва и МО,sale,flat,11,18,2,62.2,-1,0,7500000,Прикубанский, Душистая,79к2,,
+House Estate,real_estate_agent,https://spb.cian.ru/sale/flat/297137256/,Москва и МО,sale,flat,3,9,2,60.0,-1,0,7800000,,Северная ,,Площадь Ленина,Новый мир
+ЭТАЖИ КАЗАНЬ,real_estate_agent,https://kazan.cian.ru/sale/flat/309245330/,Москва и МО,sale,flat,5,10,2,49.9,-1,0,7980000,Советский, Ноксинский Спуск,28,Проспект Победы,
+Винсент Недвижимость,real_estate_agent,https://sochi.cian.ru/sale/flat/299626511/,Москва и МО,sale,flat,10,12,2,44.0,-1,0,8000000,с. Краевско-Армянское, Измайловская,20Ак2,,

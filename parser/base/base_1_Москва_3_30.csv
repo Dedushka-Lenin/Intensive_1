@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+METRAGE,real_estate_agent,https://www.cian.ru/sale/flat/307591109/,Москва,sale,flat,4,26,3,65.7,-1,0,20000000,Головинский,Кронштадтский бульвар,6к5,Водный стадион,Водный
+Главстрой,developer,https://www.cian.ru/sale/flat/296871940/,Москва,sale,flat,2,30,3,68.0,-1,0,20067072,Рязанский,Рязанский проспект,,Окская,balance
+Новое Летово,developer,https://www.cian.ru/sale/flat/296321306/,Москва,sale,flat,5,8,3,85.4,-1,0,20726580,,,к2,Филатов Луг,Новое Летово ЖК
+do A.S.A.P.,real_estate_agent,https://www.cian.ru/sale/flat/309102071/,Москва,sale,flat,3,14,3,83.6,-1,0,21000000,Восточное Дегунино,Керамический проезд,57К1,Бескудниково,
+Veles Realty,real_estate_agent,https://www.cian.ru/sale/flat/307724170/,Москва,sale,flat,14,14,3,75.0,-1,0,21000000,Митино,Уваровский переулок,3,Пенягино,
+Homeapp,real_estate_agent,https://www.cian.ru/sale/flat/307911646/,Москва,sale,flat,18,22,3,81.2,-1,0,21200000,Митино, Барышиха,23,Митино,
+Proff-Realty,real_estate_agent,https://www.cian.ru/sale/flat/309053921/,Москва,sale,flat,14,14,3,74.6,-1,0,21000000,Можайский, Кутузова,3,Рабочий посёлок,
+Homeapp,real_estate_agent,https://www.cian.ru/sale/flat/301355095/,Москва,sale,flat,8,25,3,73.1,-1,0,21000000,Метрогородок,Тагильская ,4к1,Бульвар Рокоссовского,Сиреневый парк
+Метр-Инфо,real_estate_agent,https://www.cian.ru/sale/flat/307200409/,Москва,sale,flat,12,12,3,70.0,-1,0,21300000,Нагорный,Варшавское шоссе,50,Нагорная,
+Dream Realty,real_estate_agent,https://www.cian.ru/sale/flat/308874097/,Москва,sale,flat,12,17,3,87.1,-1,0,21700000,, Ясная,1,Новомосковская,
+Leto Estate,real_estate_agent,https://www.cian.ru/sale/flat/308801413/,Москва,sale,flat,5,12,3,64.9,-1,0,21900000,Пресненский,Шелепихинская набережная,20,Шелепиха,
+PRO ОБМЕН,real_estate_agent,https://www.cian.ru/sale/flat/303077896/,Москва,sale,flat,7,20,3,76.4,-1,0,22490000,Можайский, Красных Зорь,59Б,Рабочий посёлок,
+МГСН-Проспект Мира,real_estate_agent,https://www.cian.ru/sale/flat/309256757/,Москва,sale,flat,3,9,3,62.0,-1,0,22490000,Тимирязевский,Дмитровское шоссе,27К2,Петровско-Разумовская,
+На Петровке,real_estate_agent,https://www.cian.ru/sale/flat/302867185/,Москва,sale,flat,11,24,3,85.0,-1,0,22500000,Марьино,Люблинская ,165К2,Марьино,
+Князев и Партнёры,real_estate_agent,https://www.cian.ru/sale/flat/299495945/,Москва,sale,flat,4,6,3,68.5,-1,0,22500000,Басманный,Спартаковский переулок,26С2,Бауманская,
+Кирилл Икрянников,realtor,https://www.cian.ru/sale/flat/307127828/,Москва,sale,flat,7,9,3,68.0,-1,0,22800000,Войковский, Клары Цеткин,19,Войковская,
+Елена Соколова,realtor,https://www.cian.ru/sale/flat/302059900/,Москва,sale,flat,2,28,3,73.0,-1,0,23100000,Даниловский,1-я оч.,к7,ЗИЛ,Shagal
+METRAGE,real_estate_agent,https://www.cian.ru/sale/flat/309006145/,Москва,sale,flat,1,12,3,62.8,-1,0,23500000,Северное Тушино, Свободы,81С4,Планерная,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/308095520/,Москва,sale,flat,15,17,3,75.6,-1,0,23690000,Бескудниковский,Дмитровское шоссе,74К1,Верхние Лихоборы,
+Landis,real_estate_agent,https://www.cian.ru/sale/flat/308396218/,Москва,sale,flat,2,25,3,66.2,-1,0,23500000,Чертаново Южное,Варшавское шоссе,141Ак5,Аннино,Аннино парк
+Homeapp,real_estate_agent,https://www.cian.ru/sale/flat/308874410/,Москва,sale,flat,20,20,3,72.7,-1,0,23845000,,Родниковая ,30к1,Саларьево,Румянцево-Парк
+Homeapp,real_estate_agent,https://www.cian.ru/sale/flat/305918195/,Москва,sale,flat,5,5,3,93.4,-1,0,23990000,Коптево,Коптевская ,83К2,Коптево,
+Homeapp,real_estate_agent,https://www.cian.ru/sale/flat/308205893/,Москва,sale,flat,16,18,3,77.0,-1,0,23990000,Ломоносовский, Академика Пилюгина,12К2,Новые Черёмушки,
+ID 57370241,homeowner,https://www.cian.ru/sale/flat/307358285/,Москва,sale,flat,6,28,3,62.8,-1,0,24000000,Покровское-Стрешнево,Волоколамское шоссе,95/2к5,Трикотажная,City Bay
+Триумфальная Арка,real_estate_agent,https://www.cian.ru/sale/flat/296516639/,Москва,sale,flat,8,9,3,77.6,-1,0,24300000,Преображенское,Преображенская ,2,Преображенская площадь,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/308072905/,Москва,sale,flat,1,17,3,73.0,-1,0,24500000,Черемушки, Наметкина,9К3,Новые Черёмушки,
+The Smitt,real_estate_agent,https://www.cian.ru/sale/flat/309206734/,Москва,sale,flat,6,6,3,77.0,-1,0,24500000,Хорошевский, Куусинена,11к3,Полежаевская,
+Romanov Estate,real_estate_agent,https://www.cian.ru/sale/flat/303857132/,Москва,sale,flat,12,58,3,62.3,-1,0,25000000,Коньково,40-й кв-л,к2,Калужская,Обручева 30 ЖК

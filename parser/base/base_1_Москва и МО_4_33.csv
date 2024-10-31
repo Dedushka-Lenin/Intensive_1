@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+ID 110194503,real_estate_agent,https://omsk.cian.ru/sale/flat/296007037/,Москва и МО,sale,flat,1,8,4,126.0,-1,0,15372000,Старгород мкр, Шукшина,8,,Старгород
+Арбан,developer,https://krasnoyarsk.cian.ru/sale/flat/298604397/,Москва и МО,sale,flat,9,17,4,85.9,-1,0,15290200,Центральный, Шахтеров,33А,,Барбарис
+Капитель,developer,https://smolensk.cian.ru/sale/flat/292150903/,Москва и МО,sale,flat,2,3,4,140.9,-1,0,15592850,Промышленный, Энгельса,15,,Моцарт
+Prime Expert Estate,real_estate_agent,https://omsk.cian.ru/sale/flat/305141178/,Москва и МО,sale,flat,1,9,4,91.04,-1,0,15700000,Ленинский, Петра Ильичева,1к2,,
+37 РЕГИОН,real_estate_agent,https://ivanovo.cian.ru/sale/flat/294218414/,Москва и МО,sale,flat,5,20,4,120.0,-1,0,15800000,Фрунзенский, Большая Воробьевская,16,,Центральный
+ИСКО-Ч,developer,https://cheboksary.cian.ru/sale/flat/303081609/,Москва и МО,sale,flat,2,9,4,129.4,-1,0,15786800,Калининский,проспект Чебоксарский,45к1,,Ялав
+Самолет Плюс Томск,real_estate_agent,https://tomsk.cian.ru/sale/flat/309070258/,Москва и МО,sale,flat,2,9,4,83.8,-1,0,16000000,Северный мкр, Марины Цветаевой,26,,Северный парк
+ЭТАЖИ Ульяновск,real_estate_agent,https://ulyanovsk.cian.ru/sale/flat/278869139/,Москва и МО,sale,flat,6,7,4,141.6,-1,0,16000000,Железнодорожный,Университетская Набережная ,11,,
+ТОЧНО. Недвижимость,real_estate_agent,https://penza.cian.ru/sale/flat/304667462/,Москва и МО,sale,flat,6,10,4,99.2,-1,0,16000000,Первомайский, Попова,30,,
+Буран,developer,https://astrahan.cian.ru/sale/flat/286466353/,Москва и МО,sale,flat,18,21,4,117.94,-1,0,16000000,Советский, Трофимова,5,,Клубный квартал Лотос Парк
+ИСКО-Ч,developer,https://cheboksary.cian.ru/sale/flat/303081586/,Москва и МО,sale,flat,9,9,4,129.6,-1,0,15940800,Калининский,проспект Чебоксарский,45к2,,Ялав
+ID 114231321,homeowner,https://krasnoyarsk.cian.ru/sale/flat/303969246/,Москва и МО,sale,flat,4,10,4,138.0,-1,0,16000000,Советский, Дубенского,4Ж,,
+ТОЧНО,developer,https://krasnodar.cian.ru/sale/flat/293690409/,Москва и МО,sale,flat,24,24,4,109.99,-1,0,16131865,,,,,Родные Просторы
+Арбан,developer,https://krasnoyarsk.cian.ru/sale/flat/300349643/,Москва и МО,sale,flat,6,17,4,91.1,-1,0,16398000,Центральный, Шахтеров,33А,,Барбарис
+Город,real_estate_agent,https://irkutsk.cian.ru/sale/flat/309077054/,Москва и МО,sale,flat,10,17,4,80.99,-1,0,16500000,Свердловский, Эдуара Дьяконова,10,,Союз Priority
+Девелопмент-Юг,real_estate_agent,https://krasnodar.cian.ru/sale/flat/303219009/,Москва и МО,sale,flat,14,17,4,86.0,-1,0,16500000,мкр. Фестивальный, Яна Полуяна,47,,Солнечный
+Девелопмент-Юг,real_estate_agent,https://krasnodar.cian.ru/sale/flat/296062365/,Москва и МО,sale,flat,9,9,4,119.0,-1,0,16500000,мкр. Фестивальный,проспект Константина Образцова,27,,
+ID 96311795,homeowner,https://ivanteyevka.cian.ru/sale/flat/296925557/,Москва и МО,sale,flat,18,18,4,105.0,-1,0,16450000,Ивантеевка,Центральный проезд,7,,Статус
+Арбан,developer,https://krasnoyarsk.cian.ru/sale/flat/294152452/,Москва и МО,sale,flat,2,17,4,96.8,-1,0,16649600,Свердловский,,,,Портовый
+Парадайс,real_estate_agent,https://smolensk.cian.ru/sale/flat/308536827/,Москва и МО,sale,flat,4,4,4,176.0,-1,0,16800000,Ленинский,Пригородная ,18,,
+Арбан,developer,https://krasnoyarsk.cian.ru/sale/flat/294152465/,Москва и МО,sale,flat,10,17,4,96.0,-1,0,16896000,Свердловский,,,,Портовый
+Мир Квартир Элит,real_estate_agent,https://spb.cian.ru/sale/flat/300660243/,Москва и МО,sale,flat,2,8,4,90.0,-1,0,17000000,Кировский,Двинская ,6,Нарвская,Принцип
+Аякс Ростов-на-Дону,real_estate_agent,https://rostov.cian.ru/sale/flat/299718987/,Москва и МО,sale,flat,2,17,4,98.0,-1,0,17500000,Кировский, Максима Горького,240,,Жемчужина Дона
+Этажи Томск,real_estate_agent,https://tomsk.cian.ru/sale/flat/285775621/,Москва и МО,sale,flat,5,6,4,114.2,-1,0,17500000,Кировский, Кузнецова,6,,
+Абсолют Крым,real_estate_agent,https://krym.cian.ru/sale/flat/302145526/,Москва и МО,sale,flat,3,4,4,180.0,-1,0,17500000,Феодосия, Горького,4,,
+doASAP,real_estate_agent,https://yaroslavl.cian.ru/sale/flat/299021598/,Москва и МО,sale,flat,10,11,4,124.1,-1,0,17684250,Кировский, Городской Вал,15к2,,Сердце Ярославля
+Barin-Home,real_estate_agent,https://krym.cian.ru/sale/flat/308673132/,Москва и МО,sale,flat,9,9,4,92.4,-1,0,18000000,Ялта, Тимирязева,39,,
+РомановЪ,real_estate_agent,https://stavropol.cian.ru/sale/flat/295105836/,Москва и МО,sale,flat,11,14,4,178.4,-1,0,17950000,Ленинский, Мира,282/2,,

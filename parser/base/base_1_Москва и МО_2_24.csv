@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+House Estate,real_estate_agent,https://spb.cian.ru/sale/flat/297137256/,Москва и МО,sale,flat,3,9,2,60.0,-1,0,7800000,,Северная ,,Площадь Ленина,Новый мир
+ЭТАЖИ КАЗАНЬ,real_estate_agent,https://kazan.cian.ru/sale/flat/309245330/,Москва и МО,sale,flat,5,10,2,49.9,-1,0,7980000,Советский, Ноксинский Спуск,28,Проспект Победы,
+Винсент Недвижимость,real_estate_agent,https://sochi.cian.ru/sale/flat/299626511/,Москва и МО,sale,flat,10,12,2,44.0,-1,0,8000000,с. Краевско-Армянское, Измайловская,20Ак2,,
+Альтера,real_estate_agent,https://kazan.cian.ru/sale/flat/303663135/,Москва и МО,sale,flat,4,9,2,54.2,-1,0,8229000,Приволжский, Юлиуса Фучика,51,Проспект Победы,
+Альтера,real_estate_agent,https://kazan.cian.ru/sale/flat/301965167/,Москва и МО,sale,flat,5,12,2,61.2,-1,0,8300000,Советский, Закиева,5,Горки,
+ЭТАЖИ КАЗАНЬ,real_estate_agent,https://kazan.cian.ru/sale/flat/308680666/,Москва и МО,sale,flat,3,14,2,56.5,-1,0,8490000,Кировский,Горсоветская ,17к2,Козья слобода,
+ЭТАЖИ КАЗАНЬ,real_estate_agent,https://kazan.cian.ru/sale/flat/308678502/,Москва и МО,sale,flat,4,5,2,47.1,-1,0,8599000,Вахитовский, Карима Тинчурина,19,Площадь Тукая,
+ID 24222046,homeowner,https://spb.cian.ru/sale/flat/308397359/,Москва и МО,sale,flat,5,5,2,44.6,-1,0,8990000,Московский,Новоизмайловский проспект,39К1,Парк Победы,
+Домовой,real_estate_agent,https://sochi.cian.ru/sale/flat/277565135/,Москва и МО,sale,flat,3,4,2,75.0,-1,0,9000000,Центральный, Пирогова,5/10,,
+Первый Трест,developer,https://ufa.cian.ru/sale/flat/303763995/,Москва и МО,sale,flat,2,32,2,46.23,-1,0,9153500,Советский, Пархоменко,,,Grand Avenue
+ЭТАЖИ КАЗАНЬ,real_estate_agent,https://kazan.cian.ru/sale/flat/308678591/,Москва и МО,sale,flat,3,10,2,50.5,-1,0,9400000,Приволжский, Рихарда Зорге,109,Дубравная,
+ЭТАЖИ КАЗАНЬ,real_estate_agent,https://kazan.cian.ru/sale/flat/308678515/,Москва и МО,sale,flat,9,16,2,71.0,-1,0,9700000,Советский,проспект Победы,100,Горки,
+ЭТАЖИ КАЗАНЬ,real_estate_agent,https://kazan.cian.ru/sale/flat/308679897/,Москва и МО,sale,flat,16,19,2,50.0,-1,0,9799000,Советский, Мансура Хасанова,19,Горки,Мечта
+Магазин новостроек,representative_developer,https://novorossiysk.cian.ru/sale/flat/295293648/,Москва и МО,sale,flat,7,24,2,62.77,-1,0,9820000,мкр. Центральный,Мысхакское шоссе,59В,,Аврора 2
+Ваш Гарант офис Курортный,real_estate_agent,https://krasnodar.cian.ru/sale/flat/307900244/,Москва и МО,sale,flat,2,2,2,40.0,-1,0,10000000,Нижнеимеретинская Бухта мкр, Цимлянская,41,,
+Insiders,real_estate_agent,https://spb.cian.ru/sale/flat/301450405/,Москва и МО,sale,flat,2,5,2,43.2,-1,0,10200000,Красногвардейский,проспект Металлистов,8,Новочеркасская,
+КВС,real_estate_agent,https://spb.cian.ru/sale/flat/305644618/,Москва и МО,sale,flat,11,17,2,54.3,-1,0,10600000,Невский, Бадаева,8к1,Проспект Большевиков,на ул. Бадаева и ул. Коллонтай
+Альтера,real_estate_agent,https://kazan.cian.ru/sale/flat/305957953/,Москва и МО,sale,flat,4,10,2,60.0,-1,0,10600000,Ново-Савиновский, Адоратского,66а,Северный Вокзал,
+Альтера,real_estate_agent,https://kazan.cian.ru/sale/flat/303415133/,Москва и МО,sale,flat,9,10,2,67.3,-1,0,12399999,Советский, Юлиуса Фучика,78,Проспект Победы,
+Альтера,real_estate_agent,https://kazan.cian.ru/sale/flat/306102361/,Москва и МО,sale,flat,10,19,2,66.2,-1,0,12990000,Советский,проспект Победы,139к3,Горки,
+ЦН1,real_estate_agent,https://kazan.cian.ru/sale/flat/296460235/,Москва и МО,sale,flat,8,9,2,42.0,-1,0,13900000,Приволжский, Шаляпина,26,Суконная слобода,Квартал Сюита
+ЭТАЖИ КАЗАНЬ,real_estate_agent,https://kazan.cian.ru/sale/flat/308678653/,Москва и МО,sale,flat,8,9,2,51.5,-1,0,14000000,Советский, Анаса Тазетдинова,4,Дубравная,Лето
+Домовой,real_estate_agent,https://sochi.cian.ru/sale/flat/284874675/,Москва и МО,sale,flat,14,19,2,70.0,-1,0,20000000,Хостинский, Депутатская,9,,
+Петербургская Недвижимость,representative_developer,https://spb.cian.ru/sale/flat/296753711/,Москва и МО,sale,flat,7,10,2,62.0,-1,0,20646000,Выборгский,Манчестерская ,5к1,Удельная,Svetlana Park
+Базис,developer,https://spb.cian.ru/sale/flat/301311408/,Москва и МО,sale,flat,9,12,2,61.4,-1,0,,Приморский,Белоостровская ,7,Лесная,Белый остров
+Авторы,developer,https://kazan.cian.ru/sale/flat/291146776/,Москва и МО,sale,flat,6,7,2,63.39,-1,0,24088200,Кировский, Большая,76,Кремлёвская,Лаунж-дома Авторы на Большой
+SPB Housing,real_estate_agent,https://spb.cian.ru/sale/flat/307658720/,Москва и МО,sale,flat,2,9,2,88.3,-1,0,25607000,Василеостровский,Детская ,18,Василеостровская,Дом на Детской
+Магазин новостроек,representative_developer,https://krasnodar.cian.ru/sale/flat/303065720/,Москва и МО,sale,flat,4,4,2,32.0,-1,0,25600000,,,,,Море тут

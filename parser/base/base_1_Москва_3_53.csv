@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+А101,developer,https://www.cian.ru/sale/flat/306746528/,Москва,sale,flat,2,8,3,67.6,-1,0,14845433,,,6.1,Улица Горчакова,Бунинские Кварталы ЖК
+Ирина Трофимова,realtor,https://www.cian.ru/sale/flat/306410970/,Москва,sale,flat,3,3,3,65.0,-1,0,14950000,Вешняки,аллея Первой Маевки,13к1,Вешняки,
+Ордер,real_estate_agent,https://www.cian.ru/sale/flat/308833383/,Москва,sale,flat,6,9,3,59.6,-1,0,14950000,Вешняки,Вешняковская ,6К4,Новогиреево,
+Дмитрий Каплун,realtor,https://www.cian.ru/sale/flat/307452550/,Москва,sale,flat,7,8,3,70.0,-1,0,14999000,Рязанский,Рязанский проспект,51,Стахановская,
+МИЦ-Столичный ипотечный центр недвижимости,real_estate_agent,https://www.cian.ru/sale/flat/302449797/,Москва,sale,flat,10,12,3,64.0,-1,0,15000000,Орехово-Борисово Южное,Домодедовская ,24К1,Домодедовская,
+А101,developer,https://www.cian.ru/sale/flat/306743621/,Москва,sale,flat,5,12,3,66.7,-1,0,15096810,,,3.2,Новомосковская,Дзен-кварталы ЖК
+,,https://www.cian.ru/sale/flat/307455318/,Москва,sale,flat,5,25,3,61.16,-1,0,15094288,Люблино,Юго-Восточный ао,к8,Братиславская,Светлый Мир Станция Л ЖК
+,,https://www.cian.ru/sale/flat/287392509/,Москва,sale,flat,10,25,3,58.89,-1,0,15005172,Люблино,Юго-Восточный ао,к8,Братиславская,Светлый Мир Станция Л ЖК
+,,https://www.cian.ru/sale/flat/307455150/,Москва,sale,flat,4,25,3,59.0,-1,0,15033200,Люблино,Юго-Восточный ао,к26,Перерва,Светлый Мир Станция Л ЖК
+ВЫБОР,developer,https://www.cian.ru/sale/flat/307153561/,Москва,sale,flat,3,19,3,69.9,-1,0,15042480,,,,,Академик
+Самолет,developer,https://www.cian.ru/sale/flat/309185840/,Москва,sale,flat,7,10,3,76.08,-1,0,15048294,,,к18,Щербинка,Остафьево ЖК
+Plus Development,developer,https://www.cian.ru/sale/flat/308716600/,Москва,sale,flat,4,23,3,85.5,-1,0,14955563,,,,Филатов Луг,Детали ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309186528/,Москва,sale,flat,7,7,3,78.48,-1,0,15053130,,,к24,Рассказовка,Новое Внуково ЖК
+Страна Девелопмент,developer,https://www.cian.ru/sale/flat/308984387/,Москва,sale,flat,2,38,3,50.7,-1,0,14990000,Марьино,Иловайская ,,Перерва,Страна Заречная
+А101,developer,https://www.cian.ru/sale/flat/306747086/,Москва,sale,flat,8,8,3,59.7,-1,0,15081354,,,к3.4,Бунинская аллея,Бунинские Кварталы ЖК
+А101,developer,https://www.cian.ru/sale/flat/306743074/,Москва,sale,flat,13,13,3,56.4,-1,0,14981306,,,к11.2.1,Прокшино,Прокшино ЖК
+ПИК,developer,https://www.cian.ru/sale/flat/306969498/,Москва,sale,flat,4,17,3,78.8,-1,0,14986577,Южное Бутово,,,Щербинка,Никольские Луга ЖК
+,,https://www.cian.ru/sale/flat/308761966/,Москва,sale,flat,3,16,3,71.37,-1,0,15027759,поселок Газопровод, Лесные Поляны 5-я,2,Корниловская,Смарт Гарден ЖК
+,,https://www.cian.ru/sale/flat/307455331/,Москва,sale,flat,3,25,3,61.62,-1,0,15207816,Люблино,Юго-Восточный ао,к8,Братиславская,Светлый Мир Станция Л ЖК
+Plus Development,developer,https://www.cian.ru/sale/flat/302453366/,Москва,sale,flat,9,23,3,70.7,-1,0,15210186,,,,Филатов Луг,Детали ЖК
+А101,developer,https://www.cian.ru/sale/flat/308314333/,Москва,sale,flat,4,15,3,59.0,-1,0,15247552,,,18.2.4,Бунинская аллея,Скандинавия ЖК
+ФСК,developer,https://www.cian.ru/sale/flat/307017156/,Москва,sale,flat,3,15,3,53.95,-1,0,15236526,,,к1,Румянцево,Движение. Говорово ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309190292/,Москва,sale,flat,3,15,3,76.55,-1,0,15129012,,,к11,Щербинка,Алхимово ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309190312/,Москва,sale,flat,2,9,3,78.86,-1,0,15172403,,,15,Щербинка,Алхимово ЖК
+Plus Development,developer,https://www.cian.ru/sale/flat/308716421/,Москва,sale,flat,5,23,3,84.6,-1,0,15224477,,,,Филатов Луг,Детали ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309186480/,Москва,sale,flat,6,9,3,81.23,-1,0,15225886,,,к27,Рассказовка,Новое Внуково ЖК
+Страна Девелопмент,developer,https://www.cian.ru/sale/flat/308984151/,Москва,sale,flat,2,38,3,51.6,-1,0,15170000,Марьино,Иловайская ,,Перерва,Страна Заречная
+А101,developer,https://www.cian.ru/sale/flat/306747815/,Москва,sale,flat,15,17,3,61.2,-1,0,15228151,,,к1.2,Бунинская аллея,Бунинские Кварталы ЖК

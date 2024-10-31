@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+BERI,real_estate_agent,https://www.cian.ru/sale/flat/305689774/,Москва и МО,sale,flat,3,17,2,56.8,-1,0,20691000,Чертаново Северное,Кировоградская ,7,Южная,
+СК10,developer,https://rostov.cian.ru/sale/flat/306489398/,Москва и МО,sale,flat,2,9,2,40.15,-1,0,5230000,Железнодорожный,бульвар Платова,14,,Сезоны
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/304869833/,Москва и МО,sale,flat,44,44,2,86.3,-1,0,38000000,Хорошево-Мневники, Шеногина,,Шелепиха,Sydney City
+Estes,real_estate_agent,https://www.cian.ru/sale/flat/307812448/,Москва и МО,sale,flat,27,39,2,63.88,-1,0,32990000,Раменки, Лобачевского,120к1,Аминьевская,Крылья
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/303975998/,Москва и МО,sale,flat,13,19,2,51.8,-1,0,7594000,Орджоникидзевский,,,Машиностроителей,Основинские кварталы ЖК
+Гранд Недвижимость,real_estate_agent,https://sochi.cian.ru/sale/flat/308829800/,Москва и МО,sale,flat,10,10,2,45.5,-1,0,12250000,Хостинский, Мацестинская,17/1,,
+Отдел продаж,real_estate_agent,https://yaroslavl.cian.ru/sale/flat/309091597/,Москва и МО,sale,flat,3,3,2,69.15,-1,0,7550000,Заволжский,Тверицкая набережная,58Ак1,,
+Магазин новостроек,representative_developer,https://krasnodar.cian.ru/sale/flat/285186532/,Москва и МО,sale,flat,15,24,2,54.68,-1,0,11377500,,,,,Гарантия на Обрывной
+Kalinka Group,real_estate_agent,https://odintsovo.cian.ru/sale/flat/291589677/,Москва и МО,sale,flat,3,6,2,236.0,-1,0,130000000,,,,,Жуковка Шале
+Аркадий Костанян,realtor,https://www.cian.ru/sale/flat/308855240/,Москва и МО,sale,flat,6,17,2,54.0,-1,0,24000000,Крылатское, Крылатские Холмы,27К2,Крылатское,
+DOGMA,developer,https://krasnodar.cian.ru/sale/flat/305422283/,Москва и МО,sale,flat,3,18,2,56.2,-1,0,6406800,,,,,Парк Победы - 2
+Агентство недвижимости Сергея Галлера,real_estate_agent,https://spb.cian.ru/sale/flat/302634684/,Москва и МО,sale,flat,3,26,2,60.1,-1,0,16400000,Выборгский, Орбели,,Площадь Мужества,ЦДС Парковый
+Василий Мельник,realtor,https://mytishchi.cian.ru/sale/flat/289793101/,Москва и МО,sale,flat,2,13,2,63.1,-1,0,9500000,, Колпакова,25,Медведково,
+ЛСР Санкт-Петербург,developer,https://spb.cian.ru/sale/flat/308690206/,Москва и МО,sale,flat,8,11,2,65.3,-1,0,22515440,Адмиралтейский,Измайловское,,Фрунзенская,ЛСР. Измайловский
+NIKA ESTATE,real_estate_agent,https://www.cian.ru/sale/flat/308362463/,Москва и МО,sale,flat,21,37,2,60.1,-1,0,23900000,Раменки,Мосфильмовская ,98к2,Аминьевская,Огни
+Ксения Смирькина,realtor,https://www.cian.ru/sale/flat/309116538/,Москва и МО,sale,flat,11,22,2,80.0,-1,0,34899000,Черемушки,Севастопольский проспект,28к8,Зюзино,
+Эталон,developer,https://ekb.cian.ru/sale/flat/308414252/,Москва и МО,sale,flat,11,16,2,47.1,-1,0,6579206,Чкаловский,,,Ботаническая,Жилой район Солнечный
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/308239254/,Москва и МО,sale,flat,12,19,2,84.0,-1,0,59000000,Хорошево-Мневники,Шелепихинская набережная,34к2,Шелепиха,Сердце Столицы
+Яна Новоселова,realtor,https://krasnodar.cian.ru/sale/flat/307294239/,Москва и МО,sale,flat,13,16,2,55.0,-1,0,4850000,Прикубанский, Летчика Позднякова,2к16,,
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/306297919/,Москва и МО,sale,flat,2,18,2,49.5,-1,0,7730000,Верх-Исетский,,,Площадь 1905 года,Русь XXI ЖК
+FS PROPERTY,real_estate_agent,https://www.cian.ru/sale/flat/304872335/,Москва и МО,sale,flat,6,13,2,120.2,-1,0,82938000,Арбат, Новый Арбат,32,Смоленская,Звёзды Арбата
+do A.S.A.P.,real_estate_agent,https://www.cian.ru/sale/flat/307687672/,Москва и МО,sale,flat,9,12,2,70.1,-1,0,26400000,Богородское,Погонный проезд,3ак6,Белокаменная,Лосиный остров
+Петербургская Недвижимость,representative_developer,https://spb.cian.ru/sale/flat/302352718/,Москва и МО,sale,flat,3,4,2,52.71,-1,0,13900241,Петродворцовый,,,Автово,Дворцовый фасад ЖК
+Intermark Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/307970936/,Москва и МО,sale,flat,3,5,2,44.3,-1,0,47900000,Замоскворечье,Озерковская набережная,6,Новокузнецкая,Bogenhouse
+House Estate,real_estate_agent,https://spb.cian.ru/sale/flat/298528839/,Москва и МО,sale,flat,3,8,2,61.0,-1,0,35000000,Василеостровский,20-я Васильевского острова линия,5,Василеостровская,Маленькая Франция
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/301967067/,Москва и МО,sale,flat,22,28,2,48.1,-1,0,11409000,Центр, Свердлова,10,Динамо,Екатерининский парк
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/305738210/,Москва и МО,sale,flat,18,79,2,71.8,-1,0,49500000,Пресненский,1-й Красногвардейский проезд,22с2,Москва-Сити,NEVA TOWERS
+Sminex,developer,https://www.cian.ru/sale/flat/308011961/,Москва и МО,sale,flat,3,6,2,207.3,-1,0,582330000,Хамовники,3-й Обыденский переулок,1С1,Кропоткинская,Клубный дом Обыденский № 1

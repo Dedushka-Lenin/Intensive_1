@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+TATNED,real_estate_agent,https://kazan.cian.ru/sale/flat/308550516/,Москва и МО,sale,flat,2,5,4,147.6,-1,0,34800000,Вахитовский, Некрасова,15А,Площадь Тукая,
+Петербургская Недвижимость,representative_developer,https://spb.cian.ru/sale/flat/301955781/,Москва и МО,sale,flat,6,7,4,123.5,-1,0,77805000,Петроградский,Петровский проспект,28к2,Крестовский остров,Grand View
+BEYOND. ex-Engel Volkers,real_estate_agent,https://spb.cian.ru/sale/flat/297403314/,Москва и МО,sale,flat,2,4,4,443.0,-1,0,370000000,Петроградский,Чкаловское,5,Крестовский остров,
+TEN девелопмент,developer,https://ekb.cian.ru/sale/flat/303823705/,Москва и МО,sale,flat,2,21,4,79.9,-1,0,11696000,Орджоникидзевский,,,Машиностроителей,Основинские кварталы ЖК
+Прайм,real_estate_agent,https://krym.cian.ru/sale/flat/307136406/,Москва и МО,sale,flat,5,9,4,140.0,-1,0,29500000,Ялта, Красных Партизан,14Б,,
+Интеллект,developer,https://krym.cian.ru/sale/flat/274306195/,Москва и МО,sale,flat,19,20,4,112.59,-1,0,36542641,,,,,Крымская Резиденция
+АВРОРА,real_estate_agent,https://surgut.cian.ru/sale/flat/300153508/,Москва и МО,sale,flat,4,5,4,88.7,-1,0,9400000,мкр. 4-й, Энтузиастов,6,,
+Магазин новостроек,representative_developer,https://krasnodar.cian.ru/sale/flat/301285571/,Москва и МО,sale,flat,14,24,4,78.1,-1,0,9981180,Прикубанский, Имени Героя Георгия Бочарникова,2,,Улыбка
+Атмосфера,developer,https://kemerovo.cian.ru/sale/flat/291898340/,Москва и МО,sale,flat,15,15,4,104.2,-1,0,13129200,Ленинский,,,,Уютный Квартал ЖК
+Новый Мир,developer,https://novosibirsk.cian.ru/sale/flat/291188325/,Москва и МО,sale,flat,14,24,4,93.85,-1,0,14200000,Железнодорожный, Прибрежная,4/2,Площадь Гарина-Михайловского,Беринг
+Новый Мир,developer,https://novosibirsk.cian.ru/sale/flat/300022049/,Москва и МО,sale,flat,16,23,4,91.45,-1,0,21600000,Заельцовский,Красный проспект,220,Заельцовская,Нобель
+Century 21 Premium Property,real_estate_agent,https://www.cian.ru/sale/flat/304482432/,Москва и МО,sale,flat,3,26,4,96.0,-1,0,34500000,Лефортово, Крузенштерна,12к3,Авиамоторная,Символ
+Красная Стрела,developer,https://spb.cian.ru/sale/flat/303021712/,Москва и МО,sale,flat,8,9,4,109.71,-1,0,46571155,Василеостровский,7-я Васильевского острова линия,84,Василеостровская,Регенбоген
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/301398832/,Москва и МО,sale,flat,10,27,4,95.1,-1,0,53000000,Лефортово,проезд Шелихова,3,Площадь Ильича,Символ
+Active Group - Арендафон. Штаб Квартир,real_estate_agent,https://spb.cian.ru/sale/flat/302575906/,Москва и МО,sale,flat,4,10,4,170.7,-1,0,53990000,Петроградский,Каменноостровский проспект,40а,Петроградская,
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/308981116/,Москва и МО,sale,flat,42,45,4,99.9,-1,0,74300000,Дорогомилово,Кутузовский проезд,16С1,Фили,River Park Кутузовский
+Century 21 Premium Property,real_estate_agent,https://www.cian.ru/sale/flat/309237068/,Москва и МО,sale,flat,18,18,4,118.7,-1,0,86000000,Хорошево-Мневники,Жилой комплекс остров,6-й кв-л,Терехово ,Остров
+Домовой,real_estate_agent,https://sochi.cian.ru/sale/flat/304688797/,Москва и МО,sale,flat,16,27,4,322.0,-1,0,95000000,Хостинский,Курортный проспект,105а,,Актер Гэлакси
+Apple Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/296116770/,Москва и МО,sale,flat,5,5,4,101.2,-1,0,120000000,Пресненский,переулок Брюсов,2/14С2,Тверская,
+NF Group - ex-Knight Frank,real_estate_agent,https://www.cian.ru/sale/flat/306040488/,Москва и МО,sale,flat,5,18,4,163.7,-1,0,165000000,Пресненский,Средний Тишинский переулок,5,Белорусская,Дом на Тишинке
+Apple Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/307864589/,Москва и МО,sale,flat,2,9,4,181.5,-1,0,170000000,Хамовники,7-й Ростовский переулок,15,Киевская,
+Monumental Group,real_estate_agent,https://www.cian.ru/sale/flat/303570225/,Москва и МО,sale,flat,2,6,4,171.0,-1,0,179895000,Хамовники,Зубовский проезд,1,Парк Культуры,Дом в Зубовском проезде
+Whitewill Москва-Сити,real_estate_agent,https://www.cian.ru/sale/flat/295152257/,Москва и МО,sale,flat,40,60,4,175.0,-1,0,243000000,Пресненский,набережная Пресненская,6с2,Деловой центр,Imperia Tower
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/295152325/,Москва и МО,sale,flat,40,60,4,175.0,-1,0,243000000,Пресненский,набережная Пресненская,6с2,Деловой центр,Imperia Tower
+Славянский Двор Остоженка,real_estate_agent,https://www.cian.ru/sale/flat/299604103/,Москва и МО,sale,flat,6,6,4,340.0,-1,0,291978299,Якиманка, Большая Полянка,61С2,Добрынинская,
+Whitewill Москва-Сити,real_estate_agent,https://www.cian.ru/sale/flat/307293942/,Москва и МО,sale,flat,66,73,4,320.0,-1,0,635000000,Пресненский,набережная Пресненская,8с1,Деловой центр,Город Столиц
+Whitewill Москва-Сити,real_estate_agent,https://www.cian.ru/sale/flat/279148561/,Москва и МО,sale,flat,66,73,4,426.0,-1,0,639000000,Пресненский,набережная Пресненская,8с1,Деловой центр,Город Столиц
+Whitewill,real_estate_agent,https://www.cian.ru/sale/flat/304597500/,Москва и МО,sale,flat,3,7,4,227.0,-1,0,973260999,Хамовники, Ефремова,19к2,Спортивная,Knightsbridge Private Park

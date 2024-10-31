@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Good Real Estate,real_estate_agent,https://krasnodar.cian.ru/sale/flat/252605002/,Москва и МО,sale,flat,11,19,1,44.0,-1,0,4000000,Центральный, Стасова,10,,Статус
+Good Real Estate,real_estate_agent,https://krasnodar.cian.ru/sale/flat/294367359/,Москва и МО,sale,flat,6,11,1,37.0,-1,0,4050000,мкр. Центральный, Севастопольская,2,,
+Good Real Estate,real_estate_agent,https://krasnodar.cian.ru/sale/flat/296604801/,Москва и МО,sale,flat,8,19,1,38.0,-1,0,4130000,мкр. Аврора, Шоссе Нефтяников,22к2,,
+РКС,developer,https://rostov.cian.ru/sale/flat/293896259/,Москва и МО,sale,flat,1,17,1,34.6,-1,0,4290400,,,,,Норд-Премьер
+Девелопмент-Юг,real_estate_agent,https://krasnodar.cian.ru/sale/flat/287243789/,Москва и МО,sale,flat,4,24,1,47.0,-1,0,4300000,мкр. Гидростроителей, Автолюбителей,1Дк3,,Парусная регата
+Смарт Риэлт,real_estate_agent,https://krasnodar.cian.ru/sale/flat/309219870/,Москва и МО,sale,flat,1,5,1,30.9,-1,0,4300000,Хлопчато-бумажный Комбинат мкр, Таганрогская,22/1,,
+Этажи Краснодар,real_estate_agent,https://krasnodar.cian.ru/sale/flat/307770075/,Москва и МО,sale,flat,4,7,1,36.8,-1,0,4300000,пос. Российский, Имени В.М. Комарова,30,,
+NovaStroy,developer,https://kazan.cian.ru/sale/flat/297525204/,Москва и МО,sale,flat,1,9,1,31.98,-1,0,4317300,с. Новая Тура, Дорожная,,,ТураНова
+Этажи Краснодар,real_estate_agent,https://krasnodar.cian.ru/sale/flat/307768904/,Москва и МО,sale,flat,15,16,1,37.5,-1,0,4350000,мкр. Восточно-Кругликовский, Героя А.А. Аверкиева,30,,
+Самолет Плюс Степная,real_estate_agent,https://krasnodar.cian.ru/sale/flat/306595476/,Москва и МО,sale,flat,3,3,1,45.0,-1,0,4380000,2-я Площадка мкр, Ветеранов,83к2,,
+Объединение Застройщиков,representative_developer,https://rostov.cian.ru/sale/flat/303333274/,Москва и МО,sale,flat,5,9,1,35.72,-1,0,4357840,,,,,Вишневый сад
+Девелопмент-Юг,real_estate_agent,https://krasnodar.cian.ru/sale/flat/308707340/,Москва и МО,sale,flat,15,16,1,40.0,-1,0,4400000,мкр. Гидростроителей, Дмитрия Благоева,29к2,,
+Объединение Застройщиков,representative_developer,https://rostov.cian.ru/sale/flat/304076038/,Москва и МО,sale,flat,4,4,1,47.7,-1,0,4535000,Батайск, Котова,12к2,,Микрорайон Прибрежный
+Этажи Краснодар,real_estate_agent,https://krasnodar.cian.ru/sale/flat/307768510/,Москва и МО,sale,flat,2,18,1,40.6,-1,0,4550000,мкр. РИП,Московская ,125к1,,Атмосфера
+Самолет Плюс Степная,real_estate_agent,https://krasnodar.cian.ru/sale/flat/306595485/,Москва и МО,sale,flat,15,24,1,33.9,-1,0,4600000,Прикубанский, Героя Пешкова,14к5,,Парк Победы
+Мария Савина,realtor,https://rostov.cian.ru/sale/flat/307822534/,Москва и МО,sale,flat,2,14,1,37.0,-1,0,4600000,Батайск,Северная ,2Ак2,,Северная Звезда
+Строй-Амонд,developer,https://samara.cian.ru/sale/flat/289770963/,Москва и МО,sale,flat,11,20,1,50.1,-1,0,4659300,Куйбышевский,Волгарь жилрайон,,Алабинская,Артхолл
+Этажи Краснодар,real_estate_agent,https://krasnodar.cian.ru/sale/flat/307769761/,Москва и МО,sale,flat,3,25,1,34.9,-1,0,4700000,Прикубанский, Им. Героя Яцкова И.В.,1/10,,Мечта
+МСК,developer,https://rostov.cian.ru/sale/flat/276741591/,Москва и МО,sale,flat,13,24,1,35.83,-1,0,4729560,Ворошиловский,,,,Легенда Ростова
+МАВИС,developer,https://spb.cian.ru/sale/flat/300946683/,Москва и МО,sale,flat,2,18,1,30.34,-1,0,4842264,,,,Девяткино,Авиатор ЖК
+Доннефтестрой,developer,https://rostov.cian.ru/sale/flat/297941763/,Москва и МО,sale,flat,11,15,1,36.8,-1,0,4857600,,,,,Флора
+МСК,developer,https://rostov.cian.ru/sale/flat/284296729/,Москва и МО,sale,flat,1,26,1,34.81,-1,0,4908210,Железнодорожный,Привокзальная ,9,,Royal Towers
+Этажи Краснодар,real_estate_agent,https://krasnodar.cian.ru/sale/flat/307769704/,Москва и МО,sale,flat,11,12,1,43.2,-1,0,5000000,мкр. Гидростроителей, Имени Валерия Гассия,6/1,,
+ID 78754242,homeowner,https://krasnodar.cian.ru/sale/flat/301880352/,Москва и МО,sale,flat,9,16,1,30.4,-1,0,5000000,Прикубанский, Ивана Беличенко,103/1,,
+Самолет Плюс Степная,real_estate_agent,https://krasnodar.cian.ru/sale/flat/301570941/,Москва и МО,sale,flat,10,16,1,35.1,-1,0,5100000,Прикубанский, Адмирала Серебрякова,3к2,,Дружный
+ID 13014051,realtor,https://ufa.cian.ru/sale/flat/309046499/,Москва и МО,sale,flat,9,24,1,32.5,-1,0,5180000,Советский,Бакалинская ,64/1,,Умный дом на Бакалинской
+ЧФК-Недвижимость,real_estate_agent,https://krasnodar.cian.ru/sale/flat/304187308/,Москва и МО,sale,flat,2,6,1,40.7,-1,0,5200000,мкр. Пашковский, Бородинская,152/7,,
+ПетербургЪ Недвижимость,real_estate_agent,https://spb.cian.ru/sale/flat/304639128/,Москва и МО,sale,flat,5,5,1,31.5,-1,0,5200000,Московский,Кубинская ,52,Московская,

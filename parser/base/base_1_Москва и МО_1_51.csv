@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Дом-Строй,developer,https://novosibirsk.cian.ru/sale/flat/299851141/,Москва и МО,sale,flat,4,25,1,54.03,-1,0,16000000,Октябрьский, Кирова,50,Октябрьская,Richmond Residence
+ПМД,developer,https://perm.cian.ru/sale/flat/281826489/,Москва и МО,sale,flat,2,6,1,99.8,-1,0,22709000,Ленинский,Петропавловская ,52,,Grand House
+К8 Комплексный девелопмент,developer,https://kaliningrad.cian.ru/sale/flat/291568091/,Москва и МО,sale,flat,7,7,1,25.2,-1,0,22824687,,,,,Мультифункциональный комплекс с апартаментами Princesse Royal
+МКМнедвижимость,real_estate_agent,https://nn.cian.ru/sale/flat/308517447/,Москва и МО,sale,flat,1,1,1,32.0,-1,0,250000,с. Спасское, Центральная,82А,,
+Капитал Инвест,real_estate_agent,https://vologda.cian.ru/sale/flat/282982169/,Москва и МО,sale,flat,1,2,1,26.3,-1,0,290000,с. Кубенское, Свободы,7,,
+Ваш дом,real_estate_agent,https://kemerovo.cian.ru/sale/flat/296265892/,Москва и МО,sale,flat,1,1,1,37.6,-1,0,650000,Юрга,Рабочая ,2,,
+Луиза Гагарина,realtor,https://tula.cian.ru/sale/flat/253535680/,Москва и МО,sale,flat,4,4,1,30.0,-1,0,870000,,,,,
+ID 91937214,homeowner,https://tula.cian.ru/sale/flat/301876095/,Москва и МО,sale,flat,5,5,1,29.6,-1,0,930000,Грицовский пгт, Первомайская,25,,
+Флагман,real_estate_agent,https://irkutsk.cian.ru/sale/flat/308933556/,Москва и МО,sale,flat,4,5,1,18.5,-1,0,990000,Усолье-Сибирское,проезд Серегина,24А,,
+ИМПЕРИЯ НЕДВИЖИМОСТИ,real_estate_agent,https://smolensk.cian.ru/sale/flat/305459855/,Москва и МО,sale,flat,2,5,1,21.2,-1,0,995000,Заднепровский,Минская ,17,,
+Этажи Тула,real_estate_agent,https://tula.cian.ru/sale/flat/308383806/,Москва и МО,sale,flat,2,4,1,32.7,-1,0,1000000,Болохово г., Советская,14,,
+Этажи Тула,real_estate_agent,https://tula.cian.ru/sale/flat/308384152/,Москва и МО,sale,flat,1,5,1,35.5,-1,0,1070000,Липки г., Лермонтова,8,,
+Самолет Плюс Томск,real_estate_agent,https://tomsk.cian.ru/sale/flat/302835493/,Москва и МО,sale,flat,5,5,1,12.0,-1,0,1100000,Ленинский, Героев Чубаровцев,30,,
+ЛеАН,real_estate_agent,https://tula.cian.ru/sale/flat/307244499/,Москва и МО,sale,flat,2,2,1,28.2,-1,0,1100000,Новомосковск, Шахтерская,2,,
+Этажи Кострома,real_estate_agent,https://kostroma.cian.ru/sale/flat/308598597/,Москва и МО,sale,flat,4,5,1,31.8,-1,0,1145000,Волгореченск,Набережная ,48А,,
+ЭТАЖИ Ульяновск,real_estate_agent,https://ulyanovsk.cian.ru/sale/flat/269956779/,Москва и МО,sale,flat,2,2,1,28.2,-1,0,1160000,пос. Плодовый, Береговая,6,,
+Самолет Плюс Элиста,real_estate_agent,https://elista.cian.ru/sale/flat/304472041/,Москва и МО,sale,flat,1,1,1,34.9,-1,0,1200000,пос. Аршан, Голубое Золото,24,,
+Эксперт-недвижимость,real_estate_agent,https://ryazan.cian.ru/sale/flat/306840886/,Москва и МО,sale,flat,3,5,1,19.3,-1,0,1230000,Московский,Старореченская ,15к1,,
+Борисов,real_estate_agent,https://kaluga.cian.ru/sale/flat/306369517/,Москва и МО,sale,flat,5,5,1,18.1,-1,0,1200000,Обнинск,проспект Ленина,81,,
+ДИСКАВЕРИ-Пено,developer,https://tver.cian.ru/sale/flat/284017485/,Москва и МО,sale,flat,4,5,1,31.2,-1,0,1248000,,,,,"мкр. Южный, дом 7"
+Недвижимость 33,real_estate_agent,https://yaroslavl.cian.ru/sale/flat/306067658/,Москва и МО,sale,flat,2,3,1,21.5,-1,0,1281500,Любим, Раевского,17А,,
+PRO недвижимость,real_estate_agent,https://ryazan.cian.ru/sale/flat/308068666/,Москва и МО,sale,flat,1,5,1,34.3,-1,0,1250000,пос. Листвянка, Авиационная,10,,
+ID 123651719,homeowner,https://penza.cian.ru/sale/flat/309176890/,Москва и МО,sale,flat,1,5,1,26.0,-1,0,1250000,Железнодорожный, Литвинова,19,,
+ДИСКАВЕРИ-Пено,developer,https://tver.cian.ru/sale/flat/284017471/,Москва и МО,sale,flat,3,5,1,31.91,-1,0,1276400,,,,,"мкр. Южный, дом 7"
+Этажи Кострома,real_estate_agent,https://kostroma.cian.ru/sale/flat/308599710/,Москва и МО,sale,flat,5,5,1,17.1,-1,0,1350000,Кострома,Кинешемское шоссе,15,,
+Самолет Плюс Уфа,real_estate_agent,https://ufa.cian.ru/sale/flat/303953993/,Москва и МО,sale,flat,2,2,1,35.4,-1,0,1350000,с. Караидель, Мира,11,,
+Эрмитаж,real_estate_agent,https://vladimir.cian.ru/sale/flat/308417299/,Москва и МО,sale,flat,1,2,1,36.9,-1,0,1400000,Кольчугино, Мелиораторов,12,,
+Юлия Дусина,realtor,https://samara.cian.ru/sale/flat/303434334/,Москва и МО,sale,flat,4,5,1,21.2,-1,0,1450000,Сызрань, Лазо,35,,

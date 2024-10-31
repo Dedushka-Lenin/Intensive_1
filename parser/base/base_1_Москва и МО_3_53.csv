@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+МСК,developer,https://rostov.cian.ru/sale/flat/253681306/,Москва и МО,sale,flat,23,26,3,78.55,-1,0,10997000,Ворошиловский, Ларина,45с8,,Сердце Ростова 2
+Алгоритм,developer,https://spb.cian.ru/sale/flat/299097638/,Москва и МО,sale,flat,2,8,3,70.8,-1,0,10903200,,,,Парнас,Сертолово Парк ЖК
+Вертол-Девелопмент,developer,https://rostov.cian.ru/sale/flat/265069796/,Москва и МО,sale,flat,3,29,3,82.13,-1,0,10923290,Ворошиловский,бульвар Комарова,28,,Северный бульвар
+GloraX,developer,https://spb.cian.ru/sale/flat/298987738/,Москва и МО,sale,flat,1,9,3,65.39,-1,0,11149999,,,,,GloraX Новоселье
+Этажи Краснодар,real_estate_agent,https://krasnodar.cian.ru/sale/flat/307768000/,Москва и МО,sale,flat,2,10,3,66.4,-1,0,11200000,мкр. Школьный, Школьная,13/2,,
+ХОЧУ КВАРТИРУ,representative_developer,https://spb.cian.ru/sale/flat/297588019/,Москва и МО,sale,flat,4,19,3,74.7,-1,0,11279398,,,,,Экос
+Единение,developer,https://tolyatti.cian.ru/sale/flat/302075936/,Москва и МО,sale,flat,13,16,3,87.52,-1,0,11421360,Автозаводский,11А кв-л,11А кв-л,,Жуков
+Разумные Инвестиции,developer,https://nn.cian.ru/sale/flat/294000322/,Москва и МО,sale,flat,1,10,3,71.9,-1,0,11719700,Ленинский,Арктический переулок,,Заречная,Маяковский парк
+СТ Недвижимость,real_estate_agent,https://spb.cian.ru/sale/flat/304116277/,Москва и МО,sale,flat,6,9,3,71.9,-1,0,11850000,Приморский,Ольховая ,20,Комендантский проспект,
+МАВИС,developer,https://spb.cian.ru/sale/flat/297239682/,Москва и МО,sale,flat,2,16,3,84.78,-1,0,11928546,,проспект Ручьевский,1/24,Девяткино,Фотограф
+СТ Недвижимость,real_estate_agent,https://spb.cian.ru/sale/flat/304137131/,Москва и МО,sale,flat,3,9,3,71.9,-1,0,12400000,Приморский,Комендантский проспект,18,Комендантский проспект,
+ПРОЕКТ ДОМ,developer,https://samara.cian.ru/sale/flat/297992076/,Москва и МО,sale,flat,4,22,3,96.37,-1,0,12431730,Советский,,,Советская,Сова
+Разумные Инвестиции,developer,https://nn.cian.ru/sale/flat/301564478/,Москва и МО,sale,flat,9,18,3,67.6,-1,0,12506000,Советский,1-я Оранжерейная ,,Горьковская,Тетра
+ЛенРусСтрой,developer,https://spb.cian.ru/sale/flat/300290206/,Москва и МО,sale,flat,1,12,3,85.03,-1,0,13179650,,,,,ЛесART
+ННДК,real_estate_agent,https://nn.cian.ru/sale/flat/297104938/,Москва и МО,sale,flat,6,7,3,86.6,-1,0,13300000,Сормовский,Союзный проспект,14,Буревестник,
+Разумные Инвестиции,developer,https://nn.cian.ru/sale/flat/292922362/,Москва и МО,sale,flat,4,24,3,82.0,-1,0,13546500,Нижегородский,,,Горьковская,Горизонты Нижнего ЖК
+Андор,developer,https://nn.cian.ru/sale/flat/300656169/,Москва и МО,sale,flat,5,7,3,83.22,-1,0,13470000,Московский,Калининский мкр,22,Буревестник,Город Времени ЖК
+Камбер,developer,https://krasnodar.cian.ru/sale/flat/276696887/,Москва и МО,sale,flat,2,23,3,97.0,-1,0,13611738,мкр. Черемушки, Селезнева,104/1,,Дом у озера
+ID 14007871,unknown,https://rostov.cian.ru/sale/flat/308477660/,Москва и МО,sale,flat,7,25,3,98.5,-1,0,13750000,Ленинский,переулок Гвардейский,13,,
+Proflat,real_estate_agent,https://spb.cian.ru/sale/flat/306782814/,Москва и МО,sale,flat,6,6,3,68.3,-1,0,13900000,Петроградский, Большая Зеленина,29,Чкаловская,
+ID 75313127,developer,https://kazan.cian.ru/sale/flat/300719638/,Москва и МО,sale,flat,4,23,3,77.83,-1,0,14010000,Советский,,2,Горки,Притяжение ЖК
+Кристалл,real_estate_agent,https://spb.cian.ru/sale/flat/307775366/,Москва и МО,sale,flat,7,16,3,65.6,-1,0,14300000,Приморский,Богатырский проспект,35К2,Комендантский проспект,
+Вертол-Девелопмент,developer,https://rostov.cian.ru/sale/flat/300815278/,Москва и МО,sale,flat,20,22,3,123.2,-1,0,14300000,Пролетарский,Нижегородская ,31/3,,Тихий Дон
+СТАТУС,developer,https://samara.cian.ru/sale/flat/291438555/,Москва и МО,sale,flat,5,8,3,121.56,-1,0,15134220,Октябрьский,,,Московская,Культура ЖК
+Центральная инвестиционная компания,developer,https://sochi.cian.ru/sale/flat/300437153/,Москва и МО,sale,flat,1,15,3,55.4,-1,0,15404000,,,,,Чайные холмы
+ID 101257033,homeowner,https://gelendzhik.cian.ru/sale/flat/308077400/,Москва и МО,sale,flat,4,4,3,75.0,-1,0,15500000,мкр. Центр,Вишневая ,51,,
+Унистрой,developer,https://kazan.cian.ru/sale/flat/303560705/,Москва и МО,sale,flat,1,10,3,77.85,-1,0,15600000,Приволжский,33-й Военный городок,,Аметьево,Аквамарин
+Девелопмент-Юг,real_estate_agent,https://krasnodar.cian.ru/sale/flat/304233050/,Москва и МО,sale,flat,6,18,3,100.0,-1,0,16800000,мкр. Юбилейный,бульвар Клары Лучко,12,,Новый город

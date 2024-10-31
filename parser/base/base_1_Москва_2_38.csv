@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+А101,developer,https://www.cian.ru/sale/flat/306743705/,Москва,sale,flat,15,23,2,37.0,-1,0,9622906,,,6.2.1,Новомосковская,Дзен-кварталы ЖК
+ФСК,developer,https://www.cian.ru/sale/flat/307015663/,Москва,sale,flat,13,15,2,37.41,-1,0,9632998,,,к2,Солнцево,Движение. Говорово ЖК
+А101,developer,https://www.cian.ru/sale/flat/306748499/,Москва,sale,flat,5,22,2,47.0,-1,0,9634967,,,5.1,Бунинская аллея,Бунинские Кварталы ЖК
+А101,developer,https://www.cian.ru/sale/flat/306759736/,Москва,sale,flat,8,9,2,37.7,-1,0,9641134,,,5.1,Бунинская аллея,Бунинские Кварталы ЖК
+А101,developer,https://www.cian.ru/sale/flat/306746092/,Москва,sale,flat,4,19,2,49.6,-1,0,9575369,,,7.1,Улица Горчакова,Бунинские Кварталы ЖК
+ВЭЛЛБИ,developer,https://www.cian.ru/sale/flat/306775101/,Москва,sale,flat,3,7,2,51.3,-1,0,9649530,Крюково,Зеленоград,,Нахабино,Комплекс апартаментов 
+ВЭЛЛБИ,developer,https://www.cian.ru/sale/flat/306775084/,Москва,sale,flat,2,7,2,51.7,-1,0,9611030,Крюково,Зеленоград,,Нахабино,Комплекс апартаментов 
+Апрелевка С2,developer,https://www.cian.ru/sale/flat/298379326/,Москва,sale,flat,1,3,2,63.0,-1,0,9639000,ТАО (Троицкий), Борисоглебская Слобода,9,,Борисоглебское
+NEWPOLIS,real_estate_agent,https://www.cian.ru/sale/flat/308525903/,Москва,sale,flat,5,9,2,38.1,-1,0,9650000,Гольяново,Щелковское шоссе,33,Щёлковская,
+Plus Development,developer,https://www.cian.ru/sale/flat/303784574/,Москва,sale,flat,8,23,2,40.6,-1,0,9732429,,,,Филатов Луг,Детали ЖК
+,,https://www.cian.ru/sale/flat/277241798/,Москва,sale,flat,2,7,2,66.95,-1,0,9707750,,,к6,Рассказовка,Эдельвейс ЖК
+,,https://www.cian.ru/sale/flat/277242222/,Москва,sale,flat,2,9,2,75.3,-1,0,9713700,,,94,Крёкшино,Эдельвейс
+,,https://www.cian.ru/sale/flat/298337198/,Москва,sale,flat,2,9,2,75.3,-1,0,9713700,,,к5Б,Крёкшино,Эдельвейс ЖК
+А101,developer,https://www.cian.ru/sale/flat/306744235/,Москва,sale,flat,3,13,2,39.0,-1,0,9688197,,,6.1.1,Новомосковская,Дзен-кварталы ЖК
+,,https://www.cian.ru/sale/flat/298481217/,Москва,sale,flat,13,25,2,35.08,-1,0,9697866,Люблино,Юго-Восточный ао,к8,Братиславская,Светлый Мир Станция Л ЖК
+А101,developer,https://www.cian.ru/sale/flat/306748398/,Москва,sale,flat,8,19,2,48.7,-1,0,9730742,,,5.1,Бунинская аллея,Бунинские Кварталы ЖК
+А101,developer,https://www.cian.ru/sale/flat/306746099/,Москва,sale,flat,3,19,2,53.1,-1,0,9734202,,,7.1,Улица Горчакова,Бунинские Кварталы ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309185624/,Москва,sale,flat,9,12,2,57.4,-1,0,9747339,,,к23,Щербинка,Остафьево ЖК
+ФСК,developer,https://www.cian.ru/sale/flat/303277684/,Москва,sale,flat,1,15,2,50.25,-1,0,9689456,,,к2,Солнцево,Движение. Говорово ЖК
+А101,developer,https://www.cian.ru/sale/flat/306746995/,Москва,sale,flat,13,17,2,37.4,-1,0,9680579,,,к3.4,Бунинская аллея,Бунинские Кварталы ЖК
+А101,developer,https://www.cian.ru/sale/flat/306747995/,Москва,sale,flat,2,18,2,53.3,-1,0,9733401,,,5.1,Бунинская аллея,Бунинские Кварталы ЖК
+А101,developer,https://www.cian.ru/sale/flat/306741668/,Москва,sale,flat,8,12,2,39.9,-1,0,9702750,,,,Ольховая,Деснаречье ЖК
+А101,developer,https://www.cian.ru/sale/flat/306745039/,Москва,sale,flat,5,10,2,56.7,-1,0,9691154,,,3.1,Толстопальцево,Родные кварталы ЖК
+Апрелевка С2,developer,https://www.cian.ru/sale/flat/301203164/,Москва,sale,flat,3,3,2,63.7,-1,0,9746100,, Генерала Донскова,29к5,Апрелевка,Борисоглебское
+Самолет,developer,https://www.cian.ru/sale/flat/309197678/,Москва,sale,flat,5,9,2,51.91,-1,0,9741015,,,к2,Силикатная,Подольские Кварталы ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309197677/,Москва,sale,flat,9,9,2,52.92,-1,0,9719552,,,к2,Силикатная,Подольские Кварталы ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309188175/,Москва,sale,flat,14,14,2,52.45,-1,0,9695173,,,10,Рассказовка,Квартал Западный ЖК
+А101,developer,https://www.cian.ru/sale/flat/306747386/,Москва,sale,flat,6,9,2,41.0,-1,0,9706381,,,9.1,Улица Горчакова,Бунинские Кварталы ЖК

@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Елена Дягилева,realtor,https://www.cian.ru/sale/flat/307763037/,Москва,sale,flat,9,9,2,45.0,-1,0,12500000,Коньково,Миклухо-Маклая ,25,Университет Дружбы Народов,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/299605341/,Москва,sale,flat,8,10,2,53.3,-1,0,12700000,Люблино, Марьинский Парк,41К2,Люблино,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/308936625/,Москва,sale,flat,7,9,2,46.0,-1,0,14200000,Выхино-Жулебино,Ташкентская ,10К2,Юго-Восточная,
+Офис Гид,real_estate_agent,https://www.cian.ru/sale/flat/309180318/,Москва,sale,flat,17,22,2,57.3,-1,0,14300000,Ясенево,Литовский бульвар,1,Ясенево,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/308909303/,Москва,sale,flat,12,16,2,52.6,-1,0,14300000,Отрадное,Юрловский проезд,1,Отрадное,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/309176716/,Москва,sale,flat,15,17,2,54.0,-1,0,14350000,Ново-Переделкино,Лукинская ,8к1,Переделкино,"Ново-Переделкино, ул. Лукинская"
+Дмитрий Подстоев,realtor,https://www.cian.ru/sale/flat/308742239/,Москва,sale,flat,11,27,2,47.2,-1,0,14700000,Западное Дегунино, Летчика Осканова,6,Верхние Лихоборы,Тринити-2
+CENTURY 21 Перспектива,real_estate_agent,https://www.cian.ru/sale/flat/309079832/,Москва,sale,flat,19,24,2,61.2,-1,0,15000000,Косино-Ухтомский,Лухмановская ,27,Лухмановская,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307949139/,Москва,sale,flat,18,25,2,57.0,-1,0,15400000,Выхино-Жулебино,Самаркандский бульвар,15/1,Юго-Восточная,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/309236367/,Москва,sale,flat,4,9,2,38.5,-1,0,15500000,Черемушки,Новочеремушкинская ,53К2,Профсоюзная,
+Century 21 Level,real_estate_agent,https://www.cian.ru/sale/flat/308879943/,Москва,sale,flat,14,17,2,64.0,-1,0,15750000,, Бориса Пастернака,49,Мичуринец,
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/307949210/,Москва,sale,flat,13,17,2,68.6,-1,0,16150000,,,6,Аэропорт Внуково,
+Ольга Олишина,realtor,https://www.cian.ru/sale/flat/307558226/,Москва,sale,flat,22,22,2,43.5,-1,0,17507340,Щукино,Большой Волоколамский проезд,23,Стрешнево,Комплекс апартаментов B’aires
+Homeapp,real_estate_agent,https://www.cian.ru/sale/flat/308642443/,Москва,sale,flat,2,12,2,58.6,-1,0,18800000,Филевский парк, Василисы Кожиной,14К6,Багратионовская,
+do A.S.A.P.,real_estate_agent,https://www.cian.ru/sale/flat/308474524/,Москва,sale,flat,31,31,2,52.9,-1,0,19500000,Южное Бутово, Поляны,5,Улица Скобелевская,Эталон-Сити
+Century21 Феникс,real_estate_agent,https://www.cian.ru/sale/flat/298794336/,Москва,sale,flat,2,11,2,49.8,-1,0,20300000,Щукино, Маршала Рыбалко,2к6,Панфиловская,Маршал
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/309200021/,Москва,sale,flat,7,14,2,50.0,-1,0,20400000,Свиблово,проезд 2-й Ботанический,4,Ботанический сад,
+Century 21 Premium Property,real_estate_agent,https://www.cian.ru/sale/flat/303273287/,Москва,sale,flat,8,13,2,42.3,-1,0,20500000,Даниловский, Родченко,2,ЗИЛ,ЗИЛАРТ
+ЛИДЕР Риэлти,real_estate_agent,https://www.cian.ru/sale/flat/306777330/,Москва,sale,flat,23,42,2,46.0,-1,0,23700000,Филевский парк,Багратионовский проезд,5Ак1,Фили,Filicity
+RED,real_estate_agent,https://www.cian.ru/sale/flat/309117416/,Москва,sale,flat,10,15,2,58.1,-1,0,24900000,Хорошевский,Ходынский бульвар,2,ЦСКА,Лайнер
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/308899757/,Москва,sale,flat,2,30,2,63.72,-1,0,25500000,Щукино,проезд 3-й Красногорский,5,Стрешнево,Moments
+Homeapp,real_estate_agent,https://www.cian.ru/sale/flat/308803035/,Москва,sale,flat,3,8,2,57.7,-1,0,25499000,Гагаринский,Ленинский проспект,57,Вавиловская,
+Isaev Estate,real_estate_agent,https://www.cian.ru/sale/flat/308900811/,Москва,sale,flat,2,5,2,50.0,-1,0,27500000,Пресненский, Юлиуса Фучика,2/30,Маяковская,
+Victory estate,real_estate_agent,https://www.cian.ru/sale/flat/307850871/,Москва,sale,flat,30,53,2,65.4,-1,0,29190000,Пресненский,Шмитовский проезд,39к8,Шелепиха,Headliner
+GRAND ESTATE - Премиальная недвижимость,real_estate_agent,https://www.cian.ru/sale/flat/307683064/,Москва,sale,flat,2,8,2,54.0,-1,0,31000000,Басманный,Садовая-Черногрязская ,16-18С1,Красные ворота,
+Century 21 Premium Property,real_estate_agent,https://www.cian.ru/sale/flat/287296773/,Москва,sale,flat,6,11,2,79.7,-1,0,31500000,Лефортово,шоссе Энтузиастов,1к2,Москва-Товарная,Символ
+Apple Real Estate,real_estate_agent,https://www.cian.ru/sale/flat/307541966/,Москва,sale,flat,12,22,2,55.0,-1,0,32500000,Хорошевский, Авиаконструктора Сухого,2к1,ЦСКА,ЛИЦА
+ID 78864895,homeowner,https://www.cian.ru/sale/flat/308888313/,Москва,sale,flat,12,14,2,63.2,-1,0,35800000,Лефортово,проезд Шелихова,1к1,Серп и Молот,Символ

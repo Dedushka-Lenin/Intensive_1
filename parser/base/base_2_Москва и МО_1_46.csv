@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Дом 58,real_estate_agent,https://penza.cian.ru/sale/flat/294073605/,Москва и МО,sale,flat,4,7,1,45.86,-1,0,5600000,Ленинский, Ворошилова,с14,,
+ГК НИКС,developer,https://chelyabinsk.cian.ru/sale/flat/297259591/,Москва и МО,sale,flat,7,17,1,38.36,-1,0,5600560,Калининский,,,,Никс Сити ЖК
+Жилкапинвест,developer,https://vladivostok.cian.ru/sale/flat/293661921/,Москва и МО,sale,flat,2,24,1,37.72,-1,0,5631596,Первореченский, Тухачевского,,,ТАММ
+Сити Ярославль,developer,https://yaroslavl.cian.ru/sale/flat/284234049/,Москва и МО,sale,flat,23,24,1,51.6,-1,0,5632000,Красноперекопский,Московский проспект,78,,Ярославль Сити
+Сити Ярославль,developer,https://yaroslavl.cian.ru/sale/flat/284234160/,Москва и МО,sale,flat,17,24,1,51.1,-1,0,5621000,Красноперекопский,Силикатное шоссе,17,,Ярославль Сити
+АдресЪ,real_estate_agent,https://kaluga.cian.ru/sale/flat/307669490/,Москва и МО,sale,flat,12,17,1,43.1,-1,0,5650000,Обнинск, Усачева,19,,
+Стандарт,real_estate_agent,https://stavropol.cian.ru/sale/flat/295313301/,Москва и МО,sale,flat,1,9,1,47.0,-1,0,5650000,Ессентуки, Ермолова,,,
+Авалон,real_estate_agent,https://stavropol.cian.ru/sale/flat/300025531/,Москва и МО,sale,flat,3,5,1,33.4,-1,0,5650000,Ессентуки,Просторная ,15к2,,Северный-2
+Самолёт Плюс,real_estate_agent,https://irkutsk.cian.ru/sale/flat/302104467/,Москва и МО,sale,flat,2,5,1,38.8,-1,0,5700000,Правобережный, Дзержинского,33,,
+Эксперт-недвижимость,real_estate_agent,https://ryazan.cian.ru/sale/flat/302688812/,Москва и МО,sale,flat,1,3,1,42.0,-1,0,5700000,с. Заборье, Луговая,21,,
+Аквилон,developer,https://arhangelsk.cian.ru/sale/flat/297418415/,Москва и МО,sale,flat,2,11,1,33.68,-1,0,5715318,Ломоносовский, Урицкого,,,River Park-2
+Жилкапинвест,developer,https://vladivostok.cian.ru/sale/flat/291871971/,Москва и МО,sale,flat,1,17,1,34.88,-1,0,5720320,Первомайский,,,,Клуб 25 ЖК
+ТИС,developer,https://tyumen.cian.ru/sale/flat/293804332/,Москва и МО,sale,flat,7,9,1,46.4,-1,0,5735000,мкр. Зарека, 2-я Луговая,24к1,,OK Salut
+Домарт,developer,https://kaliningrad.cian.ru/sale/flat/298004784/,Москва и МО,sale,flat,4,10,1,42.5,-1,0,5737500,Ленинградский,Старокаменная ,3А,,Домарт
+РЕКОМ,real_estate_agent,https://tyumen.cian.ru/sale/flat/303220262/,Москва и МО,sale,flat,11,25,1,38.3,-1,0,5750000,Центральный, Братьев Бондаревых,5,,Маэстро
+ДСК-1,developer,https://hmao.cian.ru/sale/flat/298794999/,Москва и МО,sale,flat,3,16,1,44.22,-1,0,5750000,,,,,Прибрежный парк
+РК,real_estate_agent,https://sevastopol.cian.ru/sale/flat/299737595/,Москва и МО,sale,flat,4,9,1,32.8,-1,0,5800000,Гагаринский, Героев Бреста,25,,
+ID 12876723,representative_developer,https://penza.cian.ru/sale/flat/281605419/,Москва и МО,sale,flat,2,18,1,45.86,-1,0,5828810,Ленинский,Памятник Победы мкр,,,Ньютон ЖК
+РК,real_estate_agent,https://sevastopol.cian.ru/sale/flat/299735917/,Москва и МО,sale,flat,1,10,1,31.0,-1,0,5900000,Нахимовский, Горпищенко,143к2,,Дергачёв
+Самолет Плюс,real_estate_agent,https://irkutsk.cian.ru/sale/flat/306496407/,Москва и МО,sale,flat,1,4,1,32.4,-1,0,5950000,Правобережный,Российская ,5,,
+Этажи Ярославль,real_estate_agent,https://yaroslavl.cian.ru/sale/flat/295425588/,Москва и МО,sale,flat,2,3,1,39.0,-1,0,5999000,Кировский,Флотская ,19,,
+Авалон,real_estate_agent,https://stavropol.cian.ru/sale/flat/306689680/,Москва и МО,sale,flat,2,7,1,41.6,-1,0,5900000,Ессентуки, Кленовая Роща,14,,Кленовая роща
+Стандарт,real_estate_agent,https://stavropol.cian.ru/sale/flat/299324131/,Москва и МО,sale,flat,3,9,1,45.8,-1,0,5955000,,,,,
+ДСК-1,developer,https://hmao.cian.ru/sale/flat/298794949/,Москва и МО,sale,flat,6,16,1,44.65,-1,0,5900000,,,,,Прибрежный парк
+ДСК-1,developer,https://surgut.cian.ru/sale/flat/301230677/,Москва и МО,sale,flat,1,16,1,38.24,-1,0,5900000,,,,,Крылов
+ТИС,developer,https://tyumen.cian.ru/sale/flat/285844290/,Москва и МО,sale,flat,21,24,1,42.52,-1,0,5940000,мкр. ДОК, Краснооктябрьская,12,,DOK
+Стандарт,real_estate_agent,https://stavropol.cian.ru/sale/flat/295437461/,Москва и МО,sale,flat,2,4,1,38.5,-1,0,6000000,Ессентуки, Спасателей,,,
+Городской пруд,developer,https://ekb.cian.ru/sale/flat/303331042/,Москва и МО,sale,flat,10,27,1,42.2,-1,0,6034600,Орджоникидзевский,проспект Космонавтов,,,9 Космонавтов

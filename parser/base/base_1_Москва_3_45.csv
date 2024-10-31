@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+А101,developer,https://www.cian.ru/sale/flat/307282102/,Москва,sale,flat,7,10,3,59.9,-1,0,11897313,,,3.3,Толстопальцево,Родные кварталы ЖК
+Новые Ватутинки,developer,https://www.cian.ru/sale/flat/303066417/,Москва,sale,flat,3,14,3,61.1,-1,0,11805000,,,,Кедровая,"Новые Ватутинки, мкр. Заречный"
+Самолет,developer,https://www.cian.ru/sale/flat/309187919/,Москва,sale,flat,12,17,3,87.61,-1,0,11881756,,,к4,Филатов Луг,Квартал Марьино ЖК
+Этажи Москва,real_estate_agent,https://www.cian.ru/sale/flat/308427192/,Москва,sale,flat,8,9,3,49.5,-1,0,11900000,Лосиноостровский,Челюскинская ,14К1,Медведково,
+Самолет,developer,https://www.cian.ru/sale/flat/309213312/,Москва,sale,flat,16,16,3,78.44,-1,0,11978965,Молжаниновский,,к5,Новоподрезково,Молжаниново ЖК
+А101,developer,https://www.cian.ru/sale/flat/306741873/,Москва,sale,flat,14,15,3,52.8,-1,0,11943042,,,,Ольховая,Деснаречье ЖК
+ФСК,developer,https://www.cian.ru/sale/flat/307015326/,Москва,sale,flat,4,15,3,58.39,-1,0,11957424,,,к2,Солнцево,Движение. Говорово ЖК
+ФСК,developer,https://www.cian.ru/sale/flat/307015947/,Москва,sale,flat,2,15,3,50.26,-1,0,11927019,,,к2,Солнцево,Движение. Говорово ЖК
+Новые Ватутинки,developer,https://www.cian.ru/sale/flat/303066463/,Москва,sale,flat,4,14,3,61.6,-1,0,11948000,,,,Кедровая,"Новые Ватутинки, мкр. Заречный"
+А101,developer,https://www.cian.ru/sale/flat/306745929/,Москва,sale,flat,2,17,3,61.5,-1,0,11972697,,,7.1,Улица Горчакова,Бунинские Кварталы ЖК
+CENTURY 21 Перспектива,real_estate_agent,https://www.cian.ru/sale/flat/308720772/,Москва,sale,flat,9,9,3,58.1,-1,0,12000000,Рязанский, Федора Полетаева,19К1,Рязанский проспект,
+ИП Горбунова Н. А.,real_estate_agent,https://www.cian.ru/sale/flat/307552393/,Москва,sale,flat,8,9,3,52.0,-1,0,12100000,Восточное Дегунино,Дубнинская ,20К1,Дегунино,
+Самолет плюс Троицк,real_estate_agent,https://www.cian.ru/sale/flat/307707371/,Москва,sale,flat,14,17,3,78.3,-1,0,12000000,, Текстильщиков,3к1,Троицк,Троицк Е-39 (Фаворит)
+Самолет,developer,https://www.cian.ru/sale/flat/309185656/,Москва,sale,flat,2,12,3,78.33,-1,0,12148200,,,к21,Щербинка,Остафьево ЖК
+ID 11287601,homeowner,https://www.cian.ru/sale/flat/302969490/,Москва,sale,flat,7,7,3,52.0,-1,0,12000000,,,9,Санино,Квартал Западный ЖК
+ФСК,developer,https://www.cian.ru/sale/flat/297384146/,Москва,sale,flat,6,15,3,59.3,-1,0,12065039,,,к1,Румянцево,Движение. Говорово ЖК
+А101,developer,https://www.cian.ru/sale/flat/306748049/,Москва,sale,flat,17,18,3,57.4,-1,0,12061112,,,5.1,Бунинская аллея,Бунинские Кварталы ЖК
+А101,developer,https://www.cian.ru/sale/flat/306745064/,Москва,sale,flat,6,10,3,79.1,-1,0,12028286,,,3.1,Толстопальцево,Родные кварталы ЖК
+А101,developer,https://www.cian.ru/sale/flat/306745054/,Москва,sale,flat,3,10,3,75.7,-1,0,12117905,,,3.1,Толстопальцево,Родные кварталы ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309188321/,Москва,sale,flat,2,12,3,81.44,-1,0,12053466,,,6,Рассказовка,Квартал Западный ЖК
+Plus Development,developer,https://www.cian.ru/sale/flat/309008643/,Москва,sale,flat,8,23,3,66.0,-1,0,12164841,,,,Филатов Луг,Детали ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309186171/,Москва,sale,flat,2,14,3,78.33,-1,0,12198253,,,к22,Щербинка,Остафьево ЖК
+Самолет,developer,https://www.cian.ru/sale/flat/309185614/,Москва,sale,flat,2,12,3,78.33,-1,0,12244389,,,к23,Щербинка,Остафьево ЖК
+А101,developer,https://www.cian.ru/sale/flat/306745122/,Москва,sale,flat,6,10,3,75.0,-1,0,12196760,,,3.5,Толстопальцево,Родные кварталы ЖК
+А101,developer,https://www.cian.ru/sale/flat/306745105/,Москва,sale,flat,2,10,3,74.9,-1,0,12182352,,,3.1,Толстопальцево,Родные кварталы ЖК
+Mango Realty,real_estate_agent,https://www.cian.ru/sale/flat/307533895/,Москва,sale,flat,3,9,3,68.4,-1,0,12350000,Вешняки, Старый Гай,1К2,Новогиреево,
+А101,developer,https://www.cian.ru/sale/flat/306748057/,Москва,sale,flat,16,18,3,63.9,-1,0,12325313,,,5.1,Бунинская аллея,Бунинские Кварталы ЖК
+А101,developer,https://www.cian.ru/sale/flat/306745058/,Москва,sale,flat,2,10,3,79.5,-1,0,12397230,,,3.1,Толстопальцево,Родные кварталы ЖК

@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Севастопольстрой,developer,https://sevastopol.cian.ru/sale/flat/298638789/,Москва и МО,sale,flat,8,9,2,63.21,-1,0,9700000,Гагаринский, Братьев Манганари,30к2,,Porto Franco
+Этажи Москва,real_estate_agent,https://lyubertsy.cian.ru/sale/flat/308909311/,Москва и МО,sale,flat,4,5,2,43.2,-1,0,9800000,, Льва Толстого,10к3,Лухмановская,
+Этажи Москва,real_estate_agent,https://krasnogorsk.cian.ru/sale/flat/309200054/,Москва и МО,sale,flat,8,25,2,53.0,-1,0,9800000,,бульвар Космонавтов,7,Опалиха,Изумрудные холмы
+ДСК-1,developer,https://surgut.cian.ru/sale/flat/301021187/,Москва и МО,sale,flat,17,17,2,61.62,-1,0,9800000,мкр. 20А, 30 лет Победы,40,,За ручьём
+ТСН Владис,real_estate_agent,https://lobnya.cian.ru/sale/flat/305593331/,Москва и МО,sale,flat,11,17,2,61.9,-1,0,9900000,, Юности,1,Лобня,Катюшки 2
+ИнтерCтрой,developer,https://krym.cian.ru/sale/flat/296350932/,Москва и МО,sale,flat,5,8,2,75.9,-1,0,9867000,,,,,Утёсов
+Этажи Ярославль,real_estate_agent,https://yaroslavl.cian.ru/sale/flat/294097265/,Москва и МО,sale,flat,1,2,2,60.7,-1,0,9950000,Кировский,площадь Челюскинцев,17а,,
+do A.S.A.P.,real_estate_agent,https://odintsovo.cian.ru/sale/flat/307688366/,Москва и МО,sale,flat,21,26,2,50.5,-1,0,9950000,, Ракетчиков,6,Внуково,Одинцово-1
+ID 107641596,unknown,https://www.cian.ru/sale/flat/309116913/,Москва и МО,sale,flat,3,9,2,44.5,-1,0,9999990,Ярославский,Холмогорская ,2К1,Медведково,
+Этажи Москва,real_estate_agent,https://odintsovo.cian.ru/sale/flat/307630483/,Москва и МО,sale,flat,13,17,2,60.0,-1,0,10200000,пос. ВНИИССОК, Дружбы,27,,
+Isaev Estate,real_estate_agent,https://www.cian.ru/sale/flat/308491189/,Москва и МО,sale,flat,2,5,2,44.0,-1,0,10300000,Соколиная гора,1-й Кирпичный переулок,19,Соколиная гора,
+Аквилон,developer,https://arhangelsk.cian.ru/sale/flat/297418257/,Москва и МО,sale,flat,2,4,2,52.31,-1,0,10355884,,,,,CITY RESIDENCE by AKVILON
+Этажи Москва,real_estate_agent,https://odintsovo.cian.ru/sale/flat/309205313/,Москва и МО,sale,flat,11,13,2,62.4,-1,0,10500000,,,,,Лайково
+Эксперт,real_estate_agent,https://yuzhno-sahalinsk.cian.ru/sale/flat/305652114/,Москва и МО,sale,flat,5,5,2,67.0,-1,0,10500000,Южно-Сахалинск,Ангарский переулок,4,,
+Премьерстрой,developer,https://ekb.cian.ru/sale/flat/286113006/,Москва и МО,sale,flat,13,25,2,65.05,-1,0,10580000,Октябрьский, Куйбышева,100,Площадь 1905 года,Куйбышева 100
+БАРС Лизинг,real_estate_agent,https://balashikha.cian.ru/sale/flat/306497146/,Москва и МО,sale,flat,23,24,2,69.8,-1,0,10550000,, Разина,1А,Салтыковская,28 микрорайон
+БАРС Лизинг,real_estate_agent,https://balashikha.cian.ru/sale/flat/304043218/,Москва и МО,sale,flat,10,24,2,69.8,-1,0,10550000,, Разина,1А,Салтыковская,28 микрорайон
+Новый город,developer,https://kaluga.cian.ru/sale/flat/302589410/,Москва и МО,sale,flat,2,9,2,61.58,-1,0,10620000,,,,,Соседи
+NONAMEGROUP,developer,https://krym.cian.ru/sale/flat/303963045/,Москва и МО,sale,flat,5,16,2,60.46,-1,0,10660000,Евпатория, 9 Мая,39,,СОК - семейный жилой комплекс
+Progress,developer,https://ekb.cian.ru/sale/flat/300563530/,Москва и МО,sale,flat,2,14,2,51.44,-1,0,10851100,,,,Чкаловская,Амундсен ЖК
+ИНГРУПП,developer,https://perm.cian.ru/sale/flat/301639626/,Москва и МО,sale,flat,7,9,2,38.6,-1,0,10835000,Дзержинский,Подгорная ,109,,SLIDE
+Homeapp,real_estate_agent,https://odintsovo.cian.ru/sale/flat/308305656/,Москва и МО,sale,flat,14,25,2,49.8,-1,0,10990000,, Каштановая,6,Внуково,Одинцово-1
+СибЛюкс,real_estate_agent,https://kemerovo.cian.ru/sale/flat/307300638/,Москва и МО,sale,flat,3,13,2,70.6,-1,0,11200000,Центральный,Московский проспект,8к2,,Родные просторы
+Новый Мир,developer,https://novosibirsk.cian.ru/sale/flat/283665500/,Москва и МО,sale,flat,16,19,2,47.8,-1,0,11250000,Заельцовский,Красный проспект,220,Заельцовская,Нобель
+СЗ СДК,developer,https://krym.cian.ru/sale/flat/299620355/,Москва и МО,sale,flat,6,13,2,52.26,-1,0,11235900,,,,,Moinaco Riviera
+Игорь Коваль,realtor,https://balashikha.cian.ru/sale/flat/309000468/,Москва и МО,sale,flat,13,17,2,55.32,-1,0,11200000,,,к8,Щёлковская,Квартал Авиаторов ЖК
+Этажи Москва,real_estate_agent,https://kotelniki.cian.ru/sale/flat/307008744/,Москва и МО,sale,flat,7,17,2,51.1,-1,0,11390000,, Сосновая,1к5,Котельники,Оранж парк
+Этажи Москва,real_estate_agent,https://odintsovo.cian.ru/sale/flat/309281435/,Москва и МО,sale,flat,20,20,2,67.0,-1,0,11300000,,Северная ,15,Одинцово,Одинбург

@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+РК,real_estate_agent,https://sevastopol.cian.ru/sale/flat/299737510/,Москва и МО,sale,flat,1,4,1,16.5,-1,0,2000000,Нахимовский,шоссе Качинское,35Б,,
+ВЕКТОР-НЕДВИЖИМОСТЬ,real_estate_agent,https://kostroma.cian.ru/sale/flat/308492729/,Москва и МО,sale,flat,1,5,1,23.0,-1,0,2000000,,,,,
+Агентство недвижимости РОМАНА МАЙОРОВА,real_estate_agent,https://kaluga.cian.ru/sale/flat/307727874/,Москва и МО,sale,flat,2,5,1,31.1,-1,0,2050000,мкр. Силикатный, Гурьянова,11,,
+ID 11081007,homeowner,https://tula.cian.ru/sale/flat/280041708/,Москва и МО,sale,flat,2,2,1,32.7,-1,0,2100000,,,,,
+Недвижимость 24,real_estate_agent,https://penza.cian.ru/sale/flat/306272097/,Москва и МО,sale,flat,7,10,1,25.0,-1,0,2350000,Первомайский, Терновского,156,,
+Авалон,real_estate_agent,https://stavropol.cian.ru/sale/flat/297728571/,Москва и МО,sale,flat,5,5,1,20.0,-1,0,2450000,Ессентуки, Фридриха Энгельса,42,,
+Недвижимость 24,real_estate_agent,https://penza.cian.ru/sale/flat/302381504/,Москва и МО,sale,flat,3,5,1,30.0,-1,0,2500000,Октябрьский, Новоселов,110,,
+Наталья Ускова,realtor,https://vladimir.cian.ru/sale/flat/307127820/,Москва и МО,sale,flat,5,5,1,33.3,-1,0,2500000,Струнино,Заречная ,8,,
+Антон Иванов,realtor,https://vladimir.cian.ru/sale/flat/301087457/,Москва и МО,sale,flat,3,5,1,30.3,-1,0,2500000,Александров, Терешковой,1,,
+ID 19241360,unknown,https://ulyanovsk.cian.ru/sale/flat/306376409/,Москва и МО,sale,flat,1,5,1,32.3,-1,0,2550000,Засвияжский, Рябикова,59,,
+ТехЗаказСтрой,developer,https://kursk.cian.ru/sale/flat/296360887/,Москва и МО,sale,flat,8,10,1,28.9,-1,0,2572100,Сеймский, Энгельса,158,,Солянка парк
+Итака-Крым,real_estate_agent,https://sevastopol.cian.ru/sale/flat/305436150/,Москва и МО,sale,flat,1,2,1,44.0,-1,0,2600000,Гагаринский,Казачья Бухта мкр,,,
+Стандарт,real_estate_agent,https://stavropol.cian.ru/sale/flat/295458134/,Москва и МО,sale,flat,5,7,1,22.0,-1,0,2600000,Ессентуки, Фридриха Энгельса,,,
+37 РЕГИОН,real_estate_agent,https://ivanovo.cian.ru/sale/flat/309036338/,Москва и МО,sale,flat,2,5,1,29.7,-1,0,2640000,Ленинский, 2-я Чапаева,65,,
+Ваш Вариант,real_estate_agent,https://tula.cian.ru/sale/flat/307413942/,Москва и МО,sale,flat,4,5,1,29.3,-1,0,2600000,Новомосковск,Школьная ,14,,
+37 РЕГИОН,real_estate_agent,https://ivanovo.cian.ru/sale/flat/307398791/,Москва и МО,sale,flat,4,5,1,21.3,-1,0,2700000,Ленинский,проспект Строителей,110,,
+ЛУГ,developer,https://pskov.cian.ru/sale/flat/294306248/,Москва и МО,sale,flat,1,10,1,37.59,-1,0,2706480,Псков, Юности,32,,SMART-квартал
+Базис,developer,https://surgut.cian.ru/sale/flat/293658762/,Москва и МО,sale,flat,1,19,1,16.02,-1,0,2780000,,,,,Столица
+РК,real_estate_agent,https://sevastopol.cian.ru/sale/flat/304080569/,Москва и МО,sale,flat,1,1,1,18.0,-1,0,2800000,Нахимовский,шоссе Качинское,33А/1,,
+ЕДИНСТВО,developer,https://tula.cian.ru/sale/flat/298640209/,Москва и МО,sale,flat,10,25,1,24.67,-1,0,2837050,,,,,Сегодня
+ID 18078118,homeowner,https://novosibirsk.cian.ru/sale/flat/305994863/,Москва и МО,sale,flat,5,5,1,32.0,-1,0,2800000,Кудряшовский дп, Октябрьская,8,,
+Омский Центр недвижимости и ипотеки,real_estate_agent,https://omsk.cian.ru/sale/flat/302165599/,Москва и МО,sale,flat,6,9,1,29.5,-1,0,2860000,мкр. Старый Кировск, Талалихина,22,,
+Ольга Полина,realtor,https://tula.cian.ru/sale/flat/309162341/,Москва и МО,sale,flat,3,5,1,29.8,-1,0,2850000,Центральный, Кауля,7к3,,
+Премьера,developer,https://ulyanovsk.cian.ru/sale/flat/293291939/,Москва и МО,sale,flat,1,13,1,30.61,-1,0,2852852,Заволжский,Сиреневый проезд,8,,Элемент
+ЖИЛСТРОЙ-ИНВЕСТ,developer,https://orel.cian.ru/sale/flat/301301421/,Москва и МО,sale,flat,5,9,1,35.0,-1,0,2887500,Северный,,,,Норд ЖК
+IBC- недвижимость,real_estate_agent,https://chelyabinsk.cian.ru/sale/flat/305773620/,Москва и МО,sale,flat,9,10,1,40.0,-1,0,2900000,Славино мкр, Взлетная,3,,
+IBC- недвижимость,real_estate_agent,https://chelyabinsk.cian.ru/sale/flat/305773812/,Москва и МО,sale,flat,2,10,1,40.0,-1,0,2900000,Славино мкр, Взлетная,3,,
+Центр Новостроек,representative_developer,https://voronezh.cian.ru/sale/flat/298129645/,Москва и МО,sale,flat,5,14,1,36.28,-1,0,2902400,Советский, Курчатова,26Б,,Атом

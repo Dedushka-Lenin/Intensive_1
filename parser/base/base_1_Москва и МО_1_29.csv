@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+Самолет Плюс Липецк,real_estate_agent,https://lipetsk.cian.ru/sale/flat/308982761/,Москва и МО,sale,flat,8,9,1,32.2,-1,0,3280000,мкр. 8-й, Циолковского,8/2,,
+Стройпромсервис,developer,https://ryazan.cian.ru/sale/flat/303812689/,Москва и МО,sale,flat,6,18,1,30.69,-1,0,3253140,,,,,Новые горизонты
+АЯКС Ярославль,real_estate_agent,https://yaroslavl.cian.ru/sale/flat/300686872/,Москва и МО,sale,flat,5,5,1,29.0,-1,0,3300000,Ленинский, Свердлова,79А,,
+РиэлтСтройком,representative_developer,https://chelyabinsk.cian.ru/sale/flat/303584488/,Москва и МО,sale,flat,1,10,1,35.75,-1,0,3332043,,,,,Экорайон Вишневая горка
+Самолет Плюс Липецк,real_estate_agent,https://lipetsk.cian.ru/sale/flat/304823270/,Москва и МО,sale,flat,10,10,1,36.0,-1,0,3370000,мкр. 21-й,проспект Победы,118,,
+Новосёл Гагарина,real_estate_agent,https://ekb.cian.ru/sale/flat/308927484/,Москва и МО,sale,flat,2,5,1,28.0,-1,0,3400000,Верх-Исетский, Крауля,78,Площадь 1905 года,
+КОМОССТРОЙ,developer,https://izhevsk.cian.ru/sale/flat/281643679/,Москва и МО,sale,flat,1,17,1,33.4,-1,0,3429000,Ленинский,Строитель жилрайон,,,Нео ЖК
+Внешстрой,developer,https://tula.cian.ru/sale/flat/297445810/,Москва и МО,sale,flat,1,17,1,33.9,-1,0,3467970,,,,,АВИОН
+Домарт,developer,https://kaliningrad.cian.ru/sale/flat/297955399/,Москва и МО,sale,flat,1,9,1,35.73,-1,0,3689830,Центральный,Александра Космодемьянского мкр,,,Танго ЖК
+ID 106518848,homeowner,https://ulyanovsk.cian.ru/sale/flat/303895328/,Москва и МО,sale,flat,7,16,1,35.1,-1,0,3650000,Ленинский,Панорамная ,81,,Репино
+ID 66553314,homeowner,https://orel.cian.ru/sale/flat/307889080/,Москва и МО,sale,flat,5,8,1,38.3,-1,0,3730000,Заводской,Автовокзальная ,6,,по ул. Автовокзальная
+Новый Метр,real_estate_agent,https://novgorod.cian.ru/sale/flat/306634816/,Москва и МО,sale,flat,2,9,1,39.0,-1,0,3890000,Великий Новгород, Кочетова,14к2,,
+ID 86144819,unknown,https://kolomna.cian.ru/sale/flat/306385965/,Москва и МО,sale,flat,3,3,1,40.7,-1,0,3900000,мкр. Щурово,Коммунальная ,18А,,На Коммунальной
+Магазин новостроек,representative_developer,https://maykop.cian.ru/sale/flat/265191954/,Москва и МО,sale,flat,5,5,1,41.2,-1,0,3914000,Новая Адыгея аул, Бжегокайская,90/2к13,,Мега
+ID 12876723,representative_developer,https://penza.cian.ru/sale/flat/292322677/,Москва и МО,sale,flat,1,21,1,43.67,-1,0,3930300,с. Засечное, Олимпийская,9,,Петровский квартал
+УЮТ,real_estate_agent,https://lyubertsy.cian.ru/sale/flat/308752991/,Москва и МО,sale,flat,5,5,1,33.3,-1,0,3990000,Малаховка рп, Калинина,29/3Б,,
+Строительный трест,developer,https://kaliningrad.cian.ru/sale/flat/294927923/,Москва и МО,sale,flat,1,5,1,37.3,-1,0,3991100,,,,,RiverPark
+Мегаполис,developer,https://perm.cian.ru/sale/flat/297939541/,Москва и МО,sale,flat,2,6,1,32.2,-1,0,3991860,Кировский,Магистральная ,86Б,,Sreda
+Магазин новостроек,representative_developer,https://maykop.cian.ru/sale/flat/300739106/,Москва и МО,sale,flat,8,16,1,31.44,-1,0,3970000,Новая Адыгея аул, Береговая,2/8,,Прима
+Самолет Плюс Липецк,real_estate_agent,https://lipetsk.cian.ru/sale/flat/308751752/,Москва и МО,sale,flat,3,18,1,40.75,-1,0,4034250,Октябрьский, Механизаторов,13А,,
+CENTURY21,real_estate_agent,https://irkutsk.cian.ru/sale/flat/309160841/,Москва и МО,sale,flat,2,9,1,38.1,-1,0,4180000,,,,,Первый Ленинский Квартал
+Мегаполис,developer,https://perm.cian.ru/sale/flat/289976004/,Москва и МО,sale,flat,15,19,1,32.1,-1,0,4193445,Мотовилихинский,Кузнецкая ,43В,,ПЯТНИЦА
+Строительный трест,developer,https://kaliningrad.cian.ru/sale/flat/296383359/,Москва и МО,sale,flat,8,8,1,31.8,-1,0,4181700,Центральный,,,,Дом на Красной ЖК
+ID 123141716,homeowner,https://ramenskoye.cian.ru/sale/flat/308421090/,Москва и МО,sale,flat,3,5,1,33.5,-1,0,4200000,Ильинский рп, Октябрьская,57к2,,
+Хочу квартиру,real_estate_agent,https://kemerovo.cian.ru/sale/flat/304380087/,Москва и МО,sale,flat,13,16,1,32.4,-1,0,4250000,Заводский,Пролетарская ,29,,Кузнецкий
+Этажи Ярославль,real_estate_agent,https://yaroslavl.cian.ru/sale/flat/294382569/,Москва и МО,sale,flat,1,12,1,35.9,-1,0,4300000,Фрунзенский,Московский проспект,135,,
+Самолет Плюс,real_estate_agent,https://naro-fominsk.cian.ru/sale/flat/299381092/,Москва и МО,sale,flat,3,5,1,31.2,-1,0,4300000,,,,,
+ID 12876723,representative_developer,https://penza.cian.ru/sale/flat/289190332/,Москва и МО,sale,flat,2,16,1,47.14,-1,0,4336880,Железнодорожный, Измайлова,41Б,,СИТИ КВАРТАЛ на Измайлова

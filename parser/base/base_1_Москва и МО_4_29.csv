@@ -1,0 +1,29 @@
+author,author_type,url,location,deal_type,accommodation_type,floor,floors_count,rooms_count,total_meters,price_per_month,commissions,price,district,street,house_number,underground,residential_complex
+ТОЧНО. Недвижимость,real_estate_agent,https://penza.cian.ru/sale/flat/302595786/,Москва и МО,sale,flat,4,7,4,93.5,-1,0,6850000,Ленинский, Кирова,18Б,,
+Лариса Бибишева,realtor,https://ulan-ude.cian.ru/sale/flat/308817606/,Москва и МО,sale,flat,5,8,4,72.0,-1,0,6990000,Октябрьский,Приречная ,3,,
+Макромир Екатеринбург,real_estate_agent,https://ekb.cian.ru/sale/flat/307987797/,Москва и МО,sale,flat,2,9,4,78.5,-1,0,7100000,Кировский, Новгородцевой,7,Геологическая,
+Стандарт,real_estate_agent,https://stavropol.cian.ru/sale/flat/309277243/,Москва и МО,sale,flat,8,9,4,79.3,-1,0,7200000,,,,,
+Новактив,real_estate_agent,https://novosibirsk.cian.ru/sale/flat/294442084/,Москва и МО,sale,flat,1,10,4,77.3,-1,0,7249999,Октябрьский,Лазурная ,2,Золотая Нива,
+Юг-Стройфорт,developer,https://rostov.cian.ru/sale/flat/280556455/,Москва и МО,sale,flat,14,24,4,77.92,-1,0,7246560,,,,,Мечта
+Этажи Кострома,real_estate_agent,https://kostroma.cian.ru/sale/flat/308616124/,Москва и МО,sale,flat,2,4,4,93.8,-1,0,7300000,Кострома, Шагова,25,,
+Риэлтор74,real_estate_agent,https://chelyabinsk.cian.ru/sale/flat/305409174/,Москва и МО,sale,flat,5,9,4,84.8,-1,0,7450000,Центральный, Энтузиастов,13а,,
+Ипотечное агенство Югры,real_estate_agent,https://hmao.cian.ru/sale/flat/306822510/,Москва и МО,sale,flat,3,9,4,85.4,-1,0,7500000,Нижневартовск,Интернациональная ,2Гк1,,
+Самолет Плюс Чита,real_estate_agent,https://chita.cian.ru/sale/flat/296106223/,Москва и МО,sale,flat,8,10,4,79.3,-1,0,7600000,Черновский,проспект Фадеева,10,,
+Стандарт,real_estate_agent,https://stavropol.cian.ru/sale/flat/304266892/,Москва и МО,sale,flat,2,5,4,109.0,-1,0,7600000,Ессентукская ст-ца, Губина,,,
+ЖИЛФОНД,real_estate_agent,https://barnaul.cian.ru/sale/flat/309144373/,Москва и МО,sale,flat,5,10,4,82.8,-1,0,7600000,Индустриальный, Шумакова,53,,
+Самолет Плюс Уфа,real_estate_agent,https://ufa.cian.ru/sale/flat/295032717/,Москва и МО,sale,flat,3,9,4,78.6,-1,0,7650000,Калининский, Георгия Мушникова,11,,
+Этажи Тула,real_estate_agent,https://tula.cian.ru/sale/flat/308383763/,Москва и МО,sale,flat,3,9,4,79.5,-1,0,7800000,Привокзальный,шоссе Калужское,7,,
+ID 122864764,homeowner,https://kemerovo.cian.ru/sale/flat/308325696/,Москва и МО,sale,flat,4,9,4,76.6,-1,0,7850000,Белово,Октябрьская ,63,,
+ID 86689691,homeowner,https://surgut.cian.ru/sale/flat/308081826/,Москва и МО,sale,flat,4,5,4,86.0,-1,0,7900000,мкр. 13А, Лермонтова,4/2,,
+FisherGroup,real_estate_agent,https://spb.cian.ru/sale/flat/307630945/,Москва и МО,sale,flat,1,3,4,64.4,-1,0,8000000,Кировский, Трефолева,14,Кировский завод,
+ID 119490470,homeowner,https://ekb.cian.ru/sale/flat/305039087/,Москва и МО,sale,flat,6,9,4,74.7,-1,0,8000000,,,,,
+Аякс Тула,real_estate_agent,https://tula.cian.ru/sale/flat/305634024/,Москва и МО,sale,flat,2,9,4,94.0,-1,0,8200000,Пролетарский, Кутузова,34,,
+ID 72530553,representative_developer,https://barnaul.cian.ru/sale/flat/299365737/,Москва и МО,sale,flat,23,24,4,79.87,-1,0,8226610,Южный рп,тракт Южный,15к1,,Адалин на Южном
+Ипотечное агенство Югры,real_estate_agent,https://hmao.cian.ru/sale/flat/301400882/,Москва и МО,sale,flat,3,16,4,112.0,-1,0,8250000,Нижневартовск, Ленина,38,,
+Страна Девелопмент,developer,https://tyumen.cian.ru/sale/flat/295663985/,Москва и МО,sale,flat,3,16,4,75.2,-1,0,8320000,Калининский,Интернациональная ,199к10,,Юнион
+ID 116524503,homeowner,https://mahachkala.cian.ru/sale/flat/304833860/,Москва и МО,sale,flat,3,4,4,89.0,-1,0,8300000,Советский, Абдулхамида Юсупова,42А,,
+Этажи Тюмень,real_estate_agent,https://tyumen.cian.ru/sale/flat/304180990/,Москва и МО,sale,flat,1,9,4,116.7,-1,0,8400000,мкр. 3-й,Широтная ,83,,
+Эпсилон-недвижимость,real_estate_agent,https://kursk.cian.ru/sale/flat/305132157/,Москва и МО,sale,flat,5,9,4,97.4,-1,0,8500000,Центральный, Димитрова,40,,
+Самолет Плюс Томск,real_estate_agent,https://tomsk.cian.ru/sale/flat/305634092/,Москва и МО,sale,flat,1,10,4,70.4,-1,0,8600000,Советский,Сибирская ,102/3,,
+Самолет Плюс Уфа,real_estate_agent,https://ufa.cian.ru/sale/flat/294868052/,Москва и МО,sale,flat,17,18,4,73.1,-1,0,8750000,Дёмский,бульвар Яркий,10,,Экогород 
+ЭТАЖИ Ульяновск,real_estate_agent,https://ulyanovsk.cian.ru/sale/flat/270709908/,Москва и МО,sale,flat,1,6,4,137.1,-1,0,8850000,Ленинский, Карла Маркса,52,,

@@ -3,11 +3,15 @@ import cianparser
 import time
 import csv
 import random
+import os
 
 ######################################################################################
 
 location_list = ['Москва и МО', 'Москва']
 room = range(1, 5)
+
+if not os.path.exists("parser/base"):
+    os.mkdir("parser/base")
 
 ######################################################################################
 
